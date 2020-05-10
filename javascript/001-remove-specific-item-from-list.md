@@ -26,10 +26,10 @@ console.log('Removed item:', removedItem)
 
 ```
 
-The `slice` approach is the recommended way of removing an element in Javascript 
+The `splice` approach is the recommended way of removing an element in Javascript 
 (See ["Common Operations" on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Description)).
 
-The splice method changes the content of the array by removing (and/or replacing) elements in the array, at the given
+The `splice` method changes the content of the array by removing (and/or replacing) elements in the array, at the given
 position.
 The first argument to `splice` is the position (0-based) of the first element to be removed, and the second argument
 is the number of elements to be removed from the array starting at that position. By setting `1` as second argument, only the
