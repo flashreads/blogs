@@ -64,6 +64,7 @@ let vegetables = ['Cabbage', 'Turnip', 'Radish', 'Carrot', 'Radish']
 let vegetablesNoRadish = vegetables.filter(function(val) {
     return val !== 'Radish';
 })
+console.log(vegetablesNoRadish)
 // ["Cabbage", "Turnip", "Carrot"]
 ```
 
