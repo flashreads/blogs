@@ -32,10 +32,10 @@ The `splice` approach is the recommended way of removing an element in Javascrip
 The `splice` method changes the content of the array by removing (and/or replacing) elements in the array, at the given
 position.
 The first argument to `splice` is the position (0-based) of the first element to be removed, and the second argument
-is the number of elements to be removed from the array starting at that position. By setting `1` as second argument, only the
+is the number of elements to be removed from the array starting at that position. By setting `1` as the second argument, only the
 element at the given position will be removed.
 
-Important thing to note is that this approach mutates the array.
+An important thing to note is that this approach mutates the array.
 
 ## Remove an element by value without modifying the original array
 
@@ -57,7 +57,7 @@ console.log(vegetables)
 
 ## Remove all elements with the same value from the array
 
-To remove all elements in the array that have the given value, we can use method `filter`:
+To remove all elements in the array that have the given value, we can use method [`filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter):
 
 ```javascript
 let vegetables = ['Cabbage', 'Turnip', 'Radish', 'Carrot', 'Radish']
