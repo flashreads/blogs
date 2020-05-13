@@ -1,5 +1,5 @@
 ---
-id: peer-authentication-failed-psycopg2
+id: 002-peer-authentication-failed-psycopg2.md
 title: Psycopg Peer authentication failed for user "postgres"
 tags: psycopg2, postgresql, python, database
 author: Zoran Pandovski
