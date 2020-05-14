@@ -1,5 +1,5 @@
 ---
-id: 001-install-pytorch-windows,md
+id: 001-install-pytorch-windows.md
 title: Install Pytorch on Windows
 tags: python, windows, pip, pytorch, conda
 author: Zoran Pandovski
