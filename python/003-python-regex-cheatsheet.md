@@ -32,7 +32,7 @@ We all have been in situations where the Regular Expressions were very useful. T
 # Special sequences
 
 * \d - matches digits
-* \D - matches none digits
+* \D - matches non-digits
 * \s - matches whitespace
 * \S - matches non-whitespace
 * \W - matches non-word character
