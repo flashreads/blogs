@@ -6,6 +6,8 @@ author: Zoran Pandovski
 meta-description: The missing step for unpublishing the Github pages site
 ---
 
+# How to unpublish GitHub pages site
+
 Sometimes, you don't want your Github Pages personal website to be available, or you are migrating to the new repository so you need to unpublish the site. The first thing that you would usually do is to:
 1. Go to repository settings
 2. Under GitHub Pages select the None(Disable GitHub Pages) option from the dropdown.
