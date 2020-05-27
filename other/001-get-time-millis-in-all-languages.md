@@ -89,4 +89,16 @@ var currTimeMillis = Int64(Date().timeIntervalSince1970 * 1000)
 
 ```go
 
+import (
+    "fmt"
+    "time"
+)
+
+func main() {
+    currTimeMillis := time.Now().UnixNano() / int64(time.Millisecond)
+    fmt.Printf("%d\n", currTimeMillis)
+}
+
+>> 1590571047186
+
 ```
