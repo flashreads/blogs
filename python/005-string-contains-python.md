@@ -23,9 +23,7 @@ else:
 # Prints 'Yes'
 ```
 
-Although under the hood Python may use some of the [magic methods]() like
-`__contains__`, `__iter__` and `__getitem__`, you should try to avoid using
+Although under the hood Python may use some of the [magic methods](https://docs.python.org/3/reference/datamodel.html#special-method-names) like
+[`__contains__`](https://docs.python.org/3/reference/datamodel.html#object.__contains__), `__iter__` and `__getitem__`, you should try to avoid using
 these methods directly on strings. These are useful when defining your own type
 with testing membership capabilities.
-
-
