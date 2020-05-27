@@ -7,11 +7,11 @@ meta-description: The definitive guide on how to get current time in millisecond
 ---
 
 Get the current time as milliseconds in:
-* Python
-* JavaScript
-* Java
-* Swift
-* Go
+* [Python](#python)
+* [JavaScript](#javascript)
+* [Java](#java)
+* [Swift](#swift)
+* [Go](#go)
 * C#
 * C++
 * Scala
