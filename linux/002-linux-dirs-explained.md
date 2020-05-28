@@ -3,7 +3,7 @@ id: 002-linux-dirs-explained.md
 title: Linux directories structure explained
 tags: linux, linux-directoy, bin, etc, dev, root, home, lib, sbin
 author: Zoran Pandovski
-meta-description: 
+meta-description: High level explanation of Linux directory structure and file system hierarchy
 ---
 
 This short article aims to provide a simple and useful explanation to the Linux directory structure.
