@@ -3,7 +3,7 @@ id: 010-python-modules.md
 title: Python Modules
 tags: python, modules, python-modules
 author: Zoran Pandovski
-meta-description: 
+meta-description: Check out what are Python modules and why to use them
 ---
 
 Imagine a complex project where you have a lot of code. Having everything written in a single Python file will become un-maintainable, too complex and hard to debug. To have an abstraction layer that will provide separation of the code in different parts that can be reusable would be a great advantage. So, for example, to import one file into another and reuse classes and functions from it. Python already provides that abstraction by using the `modules`. Adding the `import` statement in the Python file means you are using the modules. Let's check that with a simple code example. The following directory contains two Python files:
