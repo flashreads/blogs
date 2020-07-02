@@ -8,7 +8,7 @@ meta-description: NaN, Positive Infinity and Negative Infinity in Java
 
 # NaN and Infinity in Java
 
-You maybe familiar with the fact that you cannot divide an integer with 0 in Java - it yields `java.lang.ArithmeticException: / by zero`.
+You may be familiar with the fact that you cannot divide an integer with 0 in Java - it yields `java.lang.ArithmeticException: / by zero`.
 But what happens when we try to do this with floating point numbers.
 
 Let's give it a try:
@@ -25,7 +25,7 @@ System.out.println(a/b);
 
 ```
 
-Now that is interesting, we didn't get an exception, but instead we got something as a result: `Infinity`.
+Now that is interesting, we didn't get an exception, but instead, we got something as a result: `Infinity`.
 
 If we check out the `Float` class, we can see that there are a couple of constants defined in the class:
 
@@ -34,12 +34,12 @@ If we check out the `Float` class, we can see that there are a couple of constan
 * `NegativeInfinity` - A constant holding the negative infinity of type float.
 
 What this means is, that some operations in Java may yield values that are not strictly some defined number and behave in a special way.
-For example, when we're diving by `0`, we usually say that the result is Infinity. In maths this has a special meaning, in terms that
-Infinity is not a specific number and has a set of rules defined for it. In Java we can see that there are two types of infinity: positive and negative.
+For example, when we're diving by `0`, we usually say that the result is Infinity. In maths, this has a special meaning, in terms that
+Infinity is not a specific number and has a set of rules defined for it. In Java, we can see that there are two types of infinity: positive and negative.
 
 To get a positive infinity, it means that the result of some operation approaches infinite value, but from the positive side on the number axis - for
 example if we divide a positive number by 0, we get infinite results but all of them are positive, thus getting positive infinity.
-On the other hand if we divide a negative number by 0, we also get infinite results, but all of them are negative, so negative infinity.
+On the other hand, if we divide a negative number by 0, we also get infinite results, but all of them are negative, so negative infinity.
 
 ```java
 float a = 1.0f;
@@ -77,7 +77,7 @@ System.out.println(c.isNaN());
 // true
 ```
 
-Now this looks weird. Why isn't the result (`c`), which is clearly `NaN`, not equal to that constant?
+Now, this looks weird. Why isn't the result (`c`), which is clearly `NaN`, not equal to that constant?
 
 This also comes from maths, where we cannot compare two things that are not numbers. We can only compare something that has 
 a clear definition or has a clear value. NaN denotes a mathematically undefined value, and as such we cannot compare it (similar to `NULL` in `SQL`).
