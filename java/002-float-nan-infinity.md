@@ -98,6 +98,24 @@ System.out.println(gson.toJson(new SomeObject(10.0f/0.0f)));
 By setting the serialization of these values, we get the following:
 
 ```java
+public static class SomeObject {
+    private float value;
+
+    public SomeObject(float value) {
+        this.value = value;
+    }
+
+    public float getValue() {
+        return value;
+    }
+
+    public void setValue(float value) {
+        this.value = value;
+    }
+}
+
+...
+
 GsonBuilder builder = new GsonBuilder();
 builder.serializeSpecialFloatingPointValues();
 Gson gson = builder.create();
