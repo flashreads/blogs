@@ -1,8 +1,0 @@
-site_name: My Docs
-theme:
-  name: material
-  palette:
-    primary: light blue
-nav:
-  - Home: '../'
-  - Databases: 'databases/001-reset-mysql-root-password.md'
