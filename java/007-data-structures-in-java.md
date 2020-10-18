@@ -3,7 +3,7 @@ id: 007-data-structures-in-java.md
 title: Introduction of data structures in java.
 tags: java, data-stuctures , java-library
 author: Akshay Sharma
-meta-description: Easily convert String to InputStream in Java
+meta-description: short introduction to data sturtures in java
 ---
 
 # Indroduction to Data Sturctures in Java
