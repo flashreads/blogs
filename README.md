@@ -11,6 +11,7 @@ This repository contains the content(markdown files) for the flashreads blogs.
 We are accepting tech-related short(1 minute read :hourglass:) blogs. The blogs will always be published or re-shared under the Author's name :black_nib::handshake:.
 
 To add a new blog:
+* :warning: Please, do not just copy and paste content from the web.:warning:
 * Add it to the corresponding directory **{topic}/{number.title.md}** e.g python/013-find-pypi-downloads.md
 * Follow the [template](https://github.com/flashreads/blogs/blob/master/template.md) example for structuring the markdown file.
 * The tags, author, and meta description labels are required.
