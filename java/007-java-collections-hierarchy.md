@@ -1,3 +1,11 @@
+---
+id: 007-java-collections-hierarchy.md
+title: Java Collection Hierarchy
+tags: java, collection, API, List, Set, Queue
+author: Kosta Lazarevski
+meta-description: Learn about Java Collection Framework hierarchy
+---
+
 # Java Collection Hierarchy
 
 Java Collection Framework was introduced in Java 1.2 version. Collections are containers that group multiple items in a single unit. Collection is an object that represents a group of objects. Collections are dynamic containers that allow you to add or remove items at runtime. It provides an architecture to store and manipulate groups of objects. It allows  you to search, sort and manipulate data. It provides interfaces and classes in order to store the data in different data structures.
