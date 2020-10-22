@@ -1,9 +1,9 @@
 ---
 id: 004-difference-between-@Controller-and-@RestController-in-spring-boot.md
-title: @Controller vs @RestController
-tags: java, spring boot, controller, annotation, mvc
+title: @Controller vs @RestController in Spring Boot
+tags: java, spring boot, controller, annotation, mvc, rest
 author: Kosta Lazarevski
-meta-description: Learn how to define your controller classes in spring boot mvc.
+meta-description: Learn how to define your controller classes in spring boot mvc
 ---
 
 # @Controller vs @RestController
