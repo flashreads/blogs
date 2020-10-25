@@ -6,7 +6,7 @@ author: Marlene Heinrich
 meta-description: Using matplotlib to create scientific plots
 ---
 
-## What is random?
+## What is matplotlib?
 
 Matplotlib is a package that can be used to create plots or different form of
 visualization of data.
