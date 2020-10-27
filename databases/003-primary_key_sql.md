@@ -1,3 +1,14 @@
+---
+id: 003-primary-key-sql
+title: PRIMARY KEY IN SQL
+tags: Primary_key,implementation,Composite_key
+author: Shivani Verma
+meta-description: What is Primary Key?How it is implemented?How it is deleted and constraints related to it.
+---
+
+
+
+
 PRIMARY-KEY - SQL
 
 A primary key is a field in a table which uniquely identifies each row/record in a database table. Primary keys must contain unique values. 
