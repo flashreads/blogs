@@ -36,6 +36,8 @@ To define PRIMARY KEY in sql:-
       );
 
 To delete a PRIMARY KEY :-
+
+      APPLICABLE FOR ALL CASES:-
       syntax -
          (You can clear the primary key constraints from the table with the syntax given below)
          ALTER TABLE STUDENTS DROP PRIMARY KEY ;
