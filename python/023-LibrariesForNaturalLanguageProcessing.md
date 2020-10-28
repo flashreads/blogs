@@ -1,3 +1,13 @@
+---
+id: 023-LibrariesForNaturalLanguageProcessing,md
+title: Useful Python libraries For Natural Processing
+tags: python, NLP, libraries, text processing
+author: V Rahul
+meta-description: Natural laguage processing libraries for python.
+
+---
+
+
 # Useful Python libraries For Natural Processing
 
 ***
