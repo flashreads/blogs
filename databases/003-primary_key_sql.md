@@ -22,7 +22,7 @@ If a table has a primary key defined on any field(s), then you cannot have two r
 
 To define PRIMARY KEY in SQL:-
 
-      CASE 1:-when making the table
+      CASE 1:-When making the table
       syntax-
         CREATE TABLE STUDENTS(
            ROLL_NO INT             NOT NULL,
@@ -31,7 +31,7 @@ To define PRIMARY KEY in SQL:-
            PRIMARY KEY (ROLL_NO)
         );
 
-      CASE 2:-when there is an existing table in which there is no primary key and you  want to add primary key
+      CASE 2:-When there is an existing table in which there is no primary key and you  want to add primary key
       syntax -
         (write the following command)
         ALTER TABLE STUDENTS ADD PRIMARY KEY (ROLL_NO);
