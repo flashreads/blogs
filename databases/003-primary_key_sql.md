@@ -9,7 +9,7 @@ meta-description: What is Primary Key?How it is implemented?How it is deleted an
 
 
 
-PRIMARY-KEY - SQL
+# PRIMARY-KEY - SQL
 
 A primary key is a field in a table which uniquely identifies each row/record in a database table. Primary keys must contain unique values. 
 A primary key column cannot have NULL values.
@@ -20,7 +20,7 @@ When multiple fields are used as a primary key, they are called a composite key.
 If a table has a primary key defined on any field(s), then you cannot have two records having the same value of that field(s).
 
 
-To define PRIMARY KEY in sql:-
+To define PRIMARY KEY in SQL:-
 
       CASE 1:-when making the table
       syntax-
