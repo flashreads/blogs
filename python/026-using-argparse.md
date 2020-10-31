@@ -70,11 +70,3 @@ print('The area of your rectangle is: ', area, ' units squared.')
 Thats about it! Argparse will now parse your command-line agruments for integers to be used in our method. Every parser will have a `-h` optional argument by default; this option will display the help message along with the parser's description.
 
 <img src="https://cdn.discordapp.com/attachments/500822770092081163/772226353188831272/026.PNG" alt="Using -h to display help message" width="550">
-
-
-
-
-
-
-
-
