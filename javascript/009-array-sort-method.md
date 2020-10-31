@@ -1,5 +1,5 @@
 ---
-id: 004-array-sort-method
+id: 009-array-sort-method
 title: JavaScript Array.sort() Method
 tags: javascript, es6, beginner, codenewbie
 author: Alex Kimeu
