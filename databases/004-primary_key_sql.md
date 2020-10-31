@@ -1,5 +1,5 @@
 ---
-id: 003-primary-key-sql
+id: 004-primary-key-sql
 title: PRIMARY KEY IN SQL
 tags: Primary_key,implementation,Composite_key
 author: Shivani Verma
