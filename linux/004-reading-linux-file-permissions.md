@@ -40,7 +40,7 @@ The next nine characters determine what permissions the owner, groups in ownersh
 The first three characters after the file type indicate the ower's permissions. In `-rwxrw-r--`, the owner's file permissions are `rwx`. They are allowed to read, 
 write, and execute the file.
 
-The following three characters determine permissions for members of groups that own the file. In the previous example, group permissions are `rw-`. They are allowed to 
+The following three characters determine permissions for members of groups that own the file. In this case, group permissions are `rw-`. They are allowed to 
 read and write to the file, but cannot execute it.
 
 The last three characters are permissions for all other users that do not fit into the previous two categories. This example's permissions for other users are
@@ -48,4 +48,4 @@ The last three characters are permissions for all other users that do not fit in
 
 ## Diagram:
 
-![diagram](https://www.booleanworld.com/wp-content/uploads/2018/04/classes.png)
+![diagram](https://www.comentum.com/images/permissions.jpg)
