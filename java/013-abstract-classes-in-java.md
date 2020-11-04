@@ -39,3 +39,10 @@ public static void main(String args[]) {
 }
 ```
 
+## When to use abstract classes
+
+1. An abstract class is a good choice if we are using the inheritance concept since it provides a common base class implementation to derived classes.
+2. An abstract class is good to use if we want to declare non-public members. In an interface, all methods must be public.
+3. If we want to add new methods in the future, then an abstract class is a better choice. Because if we add new methods to an interface, then all of the classes that already implemented that interface will have to be changed to implement the new methods.
+4. If we want to create multiple versions of our component, create an abstract class. Abstract classes provide a simple and easy way to version our components. By updating the base class, all inheriting classes are automatically updated with the change. Interfaces, on the other hand, cannot be changed once created. If a new version of an interface is required, we must create a whole new interface.
+5. If we want to provide common, implemented functionality among all implementations of our component, use an abstract class. Abstract classes allow us to partially implement our class, whereas interfaces contain no implementation for any members.
