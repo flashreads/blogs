@@ -1,9 +1,17 @@
 ---
 id: 016-using-matplotlib.md
 title: How to make an easy plot with matplotlib
-tags: python, beginner, plot
+tags:
+  - python
+  - beginner
+  - plot
 author: Marlene Heinrich
 meta-description: Using matplotlib to create scientific plots
+date: 2020-10-25 16:10:03 +0100
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 ## What is matplotlib?

@@ -1,9 +1,21 @@
 ---
 id: 012-map-interface-in-java.md
 title: Map Interface in Java
-tags: java, collection, API, Map, HashMap, LinkedHashMap, TreeMap
+tags:
+  - java
+  - collection
+  - API
+  - Map
+  - HashMap
+  - LinkedHashMap
+  - TreeMap
 author: Kosta Lazarevski
 meta-description: Learn how to use Map interface to store, manipulate data in Java
+date: 2020-11-01 14:33:33 +0100
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # Map Interface

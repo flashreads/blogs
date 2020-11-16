@@ -1,9 +1,18 @@
 ---
 id: 008-java-interface-changes-java-8
 title: Changes behavior interface - Java 8
-tags: java, interface, default method, static static
+tags:
+  - java
+  - interface
+  - default method
+  - static static
 author: Lucas Freire
 meta-description: change behavior interface in Java 8
+date: 2020-10-25 18:56:27 -0300
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # What is interface in Java

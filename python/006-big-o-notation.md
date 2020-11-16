@@ -1,9 +1,16 @@
 ---
 id: 006-big-o-notation.md
 title: What is Big O notation?
-tags: python, exceptions
+tags:
+  - python
+  - exceptions
 author: Zoran Pandovski
 meta-description: A beginners guide to the Big O notation
+date: 2020-06-01 23:22:01 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 Let's preview the following simple fucntion:

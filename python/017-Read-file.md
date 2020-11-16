@@ -1,9 +1,17 @@
 ---
 id: 017-read-file.md
 title: First steps in reading files in python
-tags: python, beginner, data
+tags:
+  - python
+  - beginner
+  - data
 author: Marlene Heinrich
 meta-description: Using python to read files
+date: 2020-10-27 16:44:28 +0100
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 ## Reading files in Python

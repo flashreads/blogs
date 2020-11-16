@@ -1,9 +1,20 @@
 ---
 id: 003-undo-latest-local-commit.md
 title: How to undo the latest local commit in Git repository
-tags: git, revert, git-revert, rest, git-reset, git-rebase
+tags:
+  - git
+  - revert
+  - git-revert
+  - rest
+  - git-reset
+  - git-rebase
 author: Pavle Jonoski
 meta-description: What to do when you want to undo the latest commit in your repository? You have multiple options...
+date: 2020-05-19 22:44:45 +0200
+template: post
+categories:
+  - git
+cover: ../images/categories/git.png
 ---
 
 # Undo the latest local commit in Git

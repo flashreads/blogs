@@ -1,9 +1,20 @@
 ---
 id: 005-list-interface-in-java.md
 title: List interface in Java
-tags: java, collection, list, array list, linked list,vector
+tags:
+  - java
+  - collection
+  - list
+  - array list
+  - linked list
+  - vector
 author: Kosta Lazarevski
 meta-description: Learn how to use List interface to store, manipulate data in Java
+date: 2020-10-17 16:21:46 +0200
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # List Interface

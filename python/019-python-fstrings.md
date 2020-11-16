@@ -1,9 +1,17 @@
 ---
 id: 019-python-fstrings.md
 title: f-Strings - A nice way of formatting strings
-tags: python, beginner, strings
+tags:
+  - python
+  - beginner
+  - strings
 author: Durval Carvalho
 meta-description: Using python to formatings strings
+date: 2020-10-27 15:35:41 -0300
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 ## Formatting Strings

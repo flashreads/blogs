@@ -1,9 +1,19 @@
 ---
 id: 012-object-not-subscritble.md
 title: TypeError 'NoneType' object is not subscriptable
-tags: python, python3, type-error, list, dict
+tags:
+  - python
+  - python3
+  - type-error
+  - list
+  - dict
 author: Zoran Pandovski
 meta-description: How to easily resolve the object is not subscriptable error in Python
+date: 2020-06-17 22:56:36 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 This error is quite self-descriptive: 

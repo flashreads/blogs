@@ -1,9 +1,17 @@
 ---
 id: 005-persistent-data-structures
 title: Persistent Data Structures
-tags: data-structure, python, optimization
+tags:
+  - data-structure
+  - python
+  - optimization
 author: Pavle Jonoski
 meta-description: What are persistent data structures? Learn in one minute.
+date: 2020-10-28 14:42:44 +0100
+template: post
+categories:
+  - other
+cover: ../images/categories/other.png
 ---
 
 # Persistent Data Structures

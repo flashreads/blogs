@@ -1,9 +1,17 @@
 ---
 id: 003-Bootstrap.md
 title: Bootstrap
-tags: html, bootstrap,web development
+tags:
+  - html
+  - bootstrap
+  - web development
 author: Daita Sur
 meta-description: Explanation about what is Bootstrap, advantages , disadvantages and how to download Bootstrap.
+date: 2020-10-27 18:37:29 +0530
+template: post
+categories:
+  - html
+cover: ../images/categories/html.png
 ---
 # Bootsrap
 Bootstrap was created by Twitter developers for internal use but it was laid out in open access and became a convenient set of tools for developing user interfaces of any complexity. Now, Bootstrap is an open and free HTML, CSS, and JS toolkit that is used by web developers to create responsive website designs quickly and effectively. When a Bootstrap web developer connects these files to the page, a large number of classes and ready-made components will become available for design layout.

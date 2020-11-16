@@ -1,9 +1,17 @@
 ---
 id: 004-primary-key-sql
 title: PRIMARY KEY IN SQL
-tags: Primary_key,implementation,Composite_key
+tags:
+  - Primary_key
+  - implementation
+  - Composite_key
 author: Shivani Verma
 meta-description: What is Primary Key?How it is implemented?How it is deleted and constraints related to it.
+date: 2020-10-31 17:44:52 +0100
+template: post
+categories:
+  - databases
+cover: ../images/categories/databases.png
 ---
 
 

@@ -1,9 +1,16 @@
 ---
 id: 002-common-gotchas-when-mutating-a-slice
 title: Common gotchas when mutating a slice
-tags: go, golang
+tags:
+  - go
+  - golang
 author: Mina Gyimah
 meta-description: Easy mistakes when mutating a slice in Go, and how to avoid them.
+date: 2020-10-28 15:16:13 +0000
+template: post
+categories:
+  - go
+cover: ../images/categories/go.png
 ---
 
 # Common gotchas when mutating a slice

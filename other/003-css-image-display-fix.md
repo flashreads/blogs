@@ -1,9 +1,17 @@
 ---
 id: 003-css-image-display-fix.md
 title: FIx for properly displaying images
-tags: CSS, Images, Image Display
+tags:
+  - CSS
+  - Images
+  - Image Display
 author: Rabson J Phiri
 meta-description: How to get rid of the small space under your images
+date: 2020-10-26 17:27:18 +0100
+template: post
+categories:
+  - other
+cover: ../images/categories/other.png
 ---
 
 # CSS Image DIsplay Fix

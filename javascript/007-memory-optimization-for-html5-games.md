@@ -1,9 +1,20 @@
 ---
 id: 007-memory-optimization-for-html5-games
 title: Memory optimization for HTML5 games
-tags: javascript, games, gamedev, beginner, memory, optimization
+tags:
+  - javascript
+  - games
+  - gamedev
+  - beginner
+  - memory
+  - optimization
 author: Daniel Kalevski
 meta-description: Quick guide for basic memory optimization in HTML5 games
+date: 2020-10-27 19:51:08 +0100
+template: post
+categories:
+  - javascript
+cover: ../images/categories/javascript.png
 ---
 
 ## Intro:

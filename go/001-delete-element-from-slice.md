@@ -1,9 +1,18 @@
 ---
 id: 001-delete-element-from-slice.go
 title: Howto propoerly delete an element from a slice in Go
-tags: go, golang, slice, delete
+tags:
+  - go
+  - golang
+  - slice
+  - delete
 author: Pavle Jonoski
 meta-description: Delete an element from a slice in Go properly and efficiently
+date: 2020-07-15 19:38:56 +0200
+template: post
+categories:
+  - go
+cover: ../images/categories/go.png
 ---
 
 # Properly delete an element from a slice in Go

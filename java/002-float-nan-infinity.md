@@ -1,9 +1,19 @@
 ---
 id: 002-float-nan-infinity.md
 title: NaN and Infinity in Java
-tags: java, nan, infinity, positive-infinity, negative-infinity
+tags:
+  - java
+  - nan
+  - infinity
+  - positive-infinity
+  - negative-infinity
 author: Pavle Jonoski
 meta-description: NaN, Positive Infinity and Negative Infinity in Java
+date: 2020-07-02 18:08:26 +0200
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # NaN and Infinity in Java

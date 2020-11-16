@@ -1,9 +1,17 @@
 ---
 id: 002-remove-github-pages.md
 title: How to unpublish GitHub pages site
-tags: git, github, github-pages
+tags:
+  - git
+  - github
+  - github-pages
 author: Zoran Pandovski
 meta-description: The missing step for unpublishing the Github pages site
+date: 2020-05-19 23:44:39 +0200
+template: post
+categories:
+  - git
+cover: ../images/categories/git.png
 ---
 
 # How to unpublish GitHub pages site

@@ -1,9 +1,18 @@
 ---
 id: 002-what-is-javascript
 title: A brief introduction to what is JavaScript and why it is popular
-tags: javascript, es6, beginner, codenewbie
+tags:
+  - javascript
+  - es6
+  - beginner
+  - codenewbie
 author: Parwinder Bhagat
 meta-description: Learn what JavaScript is and why it is so popular
+date: 2020-10-17 13:22:20 -0500
+template: post
+categories:
+  - javascript
+cover: ../images/categories/javascript.png
 ---
 
 ## Definition

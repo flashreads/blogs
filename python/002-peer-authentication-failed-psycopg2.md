@@ -1,9 +1,18 @@
 ---
 id: 002-peer-authentication-failed-psycopg2.md
 title: Psycopg Peer authentication failed for user "postgres"
-tags: psycopg2, postgresql, python, database
+tags:
+  - psycopg2
+  - postgresql
+  - python
+  - database
 author: Zoran Pandovski
-meta-description: Simple steps to avoid psycopg2 Peer authentication 
+meta-description: Simple steps to avoid psycopg2 Peer authentication
+date: 2020-05-13 20:57:40 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 # psycopg2.OperationalError: FATAL: Peer authentication failed for user "postgres"

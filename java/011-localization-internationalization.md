@@ -1,9 +1,17 @@
 ---
 id: 011-localization-internationalization.md
 title: Localization and Internationalization
-tags: language-support, localization, internationalization
+tags:
+  - language-support
+  - localization
+  - internationalization
 author: Kushagra Shukla
 meta-description: Add multiple language support to your application without changing the code base.
+date: 2020-10-31 04:49:28 +0530
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # Localization and Internationalization

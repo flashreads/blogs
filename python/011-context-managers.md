@@ -1,9 +1,18 @@
 ---
 id: 011-context-managers.md
 title: Python context managers
-tags: python, python3, python-with, with statement
+tags:
+  - python
+  - python3
+  - python-with
+  - with statement
 author: Zoran Pandovski
 meta-description: Short introduction to context managers in Python
+date: 2020-06-17 22:56:26 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 Have you ever heard about Context managers in Python and you weren't sure what they are? The name may be strange but I am sure you have already used one. Let's see one example for reading the file in Python:

@@ -1,9 +1,19 @@
 ---
 id: 009-difference-between-finally-finalize.md
 title: Java Final vs Finally vs Finalize
-tags: java, final, finally, finalize, comparison
+tags:
+  - java
+  - final
+  - finally
+  - finalize
+  - comparison
 author: Daita Sur
 meta-description: Learn the difference between keywords final, finally and finalize in Java.
+date: 2020-10-27 12:17:45 +0530
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # Java Final vs Finally vs Finalize

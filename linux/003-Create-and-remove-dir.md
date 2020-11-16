@@ -1,9 +1,16 @@
 ---
 id: 003-Create-and-remove-dir.md
 title: How to create and remove directory in linux.
-tags: linux, mkdir(make-dir) and rmdir(remove-dir command) command
+tags:
+  - linux
+  - mkdir(make-dir) and rmdir(remove-dir command) command
 author: Sourabh Yadav
 meta-description: How to create and remove a directory in linux
+date: 2020-10-28 12:51:54 +0530
+template: post
+categories:
+  - linux
+cover: ../images/categories/linux.png
 ---
 The `mkdir` command is used to create a new directory. The command can also be used to create multiple and nested directories too.
 

@@ -1,9 +1,16 @@
 ---
 id: 007-string-isspace.md
 title: How to check for empty space, tab or newline in Python
-tags: python, strings
+tags:
+  - python
+  - strings
 author: Zoran Pandovski
-meta-description: Check if the string is empty or contains tabs, carriage return, newline with one built-in string method 
+meta-description: Check if the string is empty or contains tabs, carriage return, newline with one built-in string method
+date: 2020-06-01 23:22:13 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 The built-in string method `isspace()` checks if there are only whitespace characters in the string, otherwise it will return False.

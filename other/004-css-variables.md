@@ -1,9 +1,17 @@
 ---
 id: 004-css-variables.md
 title: CSS Variables
-tags: CSS, Variables, CSS Variables
+tags:
+  - CSS
+  - Variables
+  - CSS Variables
 author: Rabson J Phiri
 meta-description: How to make use of CSS variables
+date: 2020-10-26 17:27:18 +0100
+template: post
+categories:
+  - other
+cover: ../images/categories/other.png
 ---
 
 # CSS Variables

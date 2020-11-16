@@ -1,9 +1,17 @@
 ---
 id: 005-fatal-git-tree.md
 title: fatal git-write-tree error building trees
-tags: git, git-write, git pull
+tags:
+  - git
+  - git-write
+  - git pull
 author: Zoran Pandovski
 meta-description: 
+date: 2020-06-14 18:52:57 +0200
+template: post
+categories:
+  - git
+cover: ../images/categories/git.png
 ---
 
 If you search the above error, most of the answers would be to use `git reset --hard` command. But, you should be careful with executing this command. You can lose all uncommitted changes from your working tree. So how to resolve this error?

@@ -1,9 +1,18 @@
 ---
 id: 005-string-contains-python.md
 title: Check if a string contains substring in Python
-tags: string, contains, python, python3
+tags:
+  - string
+  - contains
+  - python
+  - python3
 author: Pavle Jonoski
 meta-description: What to use to check if a string contains a substring in Python
+date: 2020-05-27 10:03:50 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 # String `contains` method in Python

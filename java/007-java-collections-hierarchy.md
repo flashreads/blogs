@@ -1,9 +1,20 @@
 ---
 id: 007-java-collections-hierarchy.md
 title: Java Collection Hierarchy
-tags: java, collection, API, List, Set, Queue
+tags:
+  - java
+  - collection
+  - API
+  - List
+  - Set
+  - Queue
 author: Kosta Lazarevski
 meta-description: Learn about Java Collection Framework hierarchy
+date: 2020-10-22 19:28:30 +0200
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # Java Collection Hierarchy

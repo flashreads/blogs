@@ -1,9 +1,18 @@
 ---
 id: 026-using-argparse
 title: Creating a Command-Line Interface Program With Argparse
-tags: Python, cli, args, argparse
+tags:
+  - Python
+  - cli
+  - args
+  - argparse
 author: Royce Ayroso-Ong
 meta-description: Using argparse to create a simple command-line interface program
+date: 2020-10-31 19:07:19 -0400
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 # What is Argparse?

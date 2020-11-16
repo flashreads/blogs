@@ -1,9 +1,16 @@
 ---
 id: 004-reading-linux-file-permissions.md
 title: Linux File Permissions
-tags: linux, file permissions
+tags:
+  - linux
+  - file permissions
 author: Calista Lai
 meta-description: how to read file/directory permissions in linux
+date: 2020-10-31 01:32:22 -0700
+template: post
+categories:
+  - linux
+cover: ../images/categories/linux.png
 ---
 
 # File Permissions

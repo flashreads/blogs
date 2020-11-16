@@ -1,9 +1,17 @@
 ---
 id: 013-abstract-classes-in-java.md
 title: Abstract Classes in Java
-tags: abstraction, OOP, Class
+tags:
+  - abstraction
+  - OOP
+  - Class
 author: Kosta Lazarevski
 meta-description: Learn about Abstract Classes in Java
+date: 2020-11-04 19:58:39 +0100
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # Abstraction

@@ -1,9 +1,16 @@
 ---
 id: 004-notimplemented-notimplementederror.md
 title: NotImplemented vs NotImplementedError in Python
-tags: python, exceptions
+tags:
+  - python
+  - exceptions
 author: Zoran Pandovski
 meta-description: The difference between NotImplemented and NotImplementedError in python
+date: 2020-05-26 21:27:54 +0200
+template: post
+categories:
+  - python
+cover: ../images/categories/python.png
 ---
 
 # What is NotImplemented?

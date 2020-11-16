@@ -1,9 +1,17 @@
 ---
 id: 001-string-equals-vs-equality-operator.md
 title: Java String.equals vs '=='
-tags: java, equals, comparison
+tags:
+  - java
+  - equals
+  - comparison
 author: Pavle Jonoski
 meta-description: Learn how to properly compare string values in Java.
+date: 2020-05-27 10:54:35 +0200
+template: post
+categories:
+  - java
+cover: ../images/categories/java.png
 ---
 
 # Java String equals vs the (==) equality operator

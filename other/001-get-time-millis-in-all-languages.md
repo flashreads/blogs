@@ -1,9 +1,37 @@
 ---
 id: 001-get-time-millis-in-all-languages.md
 title: Get current time in milliseconds in all popular programing languages
-tags: current-time, millis, milliseconds, python, javascript, java, golang, c-sharp, c++, scala, kotlin, ruby, php, C, rust, objective-c, dart, lua, haskell, clojure, matlab, octave, R
+tags:
+  - current-time
+  - millis
+  - milliseconds
+  - python
+  - javascript
+  - java
+  - golang
+  - c-sharp
+  - c++
+  - scala
+  - kotlin
+  - ruby
+  - php
+  - C
+  - rust
+  - objective-c
+  - dart
+  - lua
+  - haskell
+  - clojure
+  - matlab
+  - octave
+  - R
 author: Pavle Jonoski
 meta-description: The definitive guide on how to get current time in milliseconds in (almost) all programing language that you'll ever use.
+date: 2020-06-04 22:55:34 +0200
+template: post
+categories:
+  - other
+cover: ../images/categories/other.png
 ---
 
 Get the current time as milliseconds in:

@@ -1,9 +1,20 @@
 ---
 id: 001-delete-remote-branch.md
 title: Git delete a branch remotely
-tags: git, delete-branch, repository, command-line, github, github.com
+tags:
+  - git
+  - delete-branch
+  - repository
+  - command-line
+  - github
+  - github.com
 author: Pavle Jonoski
 meta-description: See how to delete a branch in the local and remote git repository.
+date: 2020-05-12 21:53:39 +0200
+template: post
+categories:
+  - git
+cover: ../images/categories/git.png
 ---
 
 # Git delete a branch from the local and remote repository
