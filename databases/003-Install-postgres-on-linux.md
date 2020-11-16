@@ -1,9 +1,18 @@
 ---
 id: 003-install-postgres-on-linux.md
 title: How to install Postgres on Linux (Debian)
-tags: linux, database, postgres
+tags:
+  - linux
+  - database
+  - postgres
 author: Rohit Geddam
 meta-description: See How to install postgres on your linux machine
+date: 2020-10-27 22:02:14 +0530
+keywords: linux, database, postgres
+template: post
+categories:
+  - databases
+cover: ../../images/categories/databases.png
 ---
 
 ## How to Install Postgres On Linux (Debian)

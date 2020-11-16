@@ -1,9 +1,18 @@
 ---
 id: 006-sort-trick.md
 title: JavaScript sort trick
-tags: JavaScript, sort, localeCompare
+tags:
+  - JavaScript
+  - sort
+  - localeCompare
 author: Rabson J Phiri
 meta-description: How to sort strings and avoid unexpected outcomes
+date: 2020-10-26 13:59:31 +0100
+keywords: JavaScript, sort, localeCompare
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 # Sorting strings in JavaScript

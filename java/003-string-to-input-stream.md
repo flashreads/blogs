@@ -1,9 +1,19 @@
 ---
 id: 003-string-to-input-stream.md
 title: How to convert String to InputStream in Java
-tags: java, one-liner, string, input-stream
+tags:
+  - java
+  - one-liner
+  - string
+  - input-stream
 author: Pavle Jonoski
 meta-description: Easily convert String to InputStream in Java
+date: 2020-07-08 15:22:45 +0200
+keywords: java, one-liner, string, input-stream
+template: post
+categories:
+  - java
+cover: ../../images/categories/java.png
 ---
 
 # Convert String to InputStream in Java

@@ -1,9 +1,19 @@
 ---
-id: 045-Datatypes_Variables_Constants_in_GO.md
+id: 003-Datatypes_Variables_Constants_in_GO.md
 title: Understading Datatypes, Variables Constants In GO
-tags: GO, Datatypes, Variables, Constants
+tags:
+  - GO
+  - Datatypes
+  - Variables
+  - Constants
 author: V Rahul
 meta-description: Understading the basic concepts of  Datatypes, Variables Constants In GO language.
+date: 2020-10-28 23:46:52 +0530
+keywords: GO, Datatypes, Variables, Constants
+template: post
+categories:
+  - go
+cover: ../../images/categories/go.png
 ---
 
 # Understading Datatypes, Variables Constants In GO

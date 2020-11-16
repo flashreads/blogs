@@ -1,9 +1,18 @@
 ---
-id: 032-LesserKnownHTMLTricks.md
+id: 004-LesserKnownHTMLTricks.md
 title: Lesser Known HTML5 Tricks
-tags: HTML5, Web development, tricks
+tags:
+  - HTML5
+  - Web development
+  - tricks
 author: V Rahul
 meta-description: Useful HTML tricks that we can use to write an effective code.
+date: 2020-10-28 21:16:09 +0530
+keywords: HTML5, Web development, tricks
+template: post
+categories:
+  - html
+cover: ../../images/categories/html.png
 ---
 
 # Lesser Known HTML5 Tricks:

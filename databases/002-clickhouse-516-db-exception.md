@@ -1,9 +1,18 @@
 ---
 id: 002-clickhouse-516-db-exception
 title: ClickHouse Code 516. DB::Exception
-tags: clickhouse, databases, clickhouse-cli
+tags:
+  - clickhouse
+  - databases
+  - clickhouse-cli
 author: Zoran Pandovski
 meta-description: How to resolve Code 516. DB::Exception from clickhouse-client
+date: 2020-06-04 16:55:31 +0200
+keywords: clickhouse, databases, clickhouse-cli
+template: post
+categories:
+  - databases
+cover: ../../images/categories/databases.png
 ---
 
 ClickHouse provides a command line tool for connecting to the ClickHouse database called [clickhouse-client](https://clickhouse.tech/docs/en/interfaces/cli/#command-line-options). Following the official documentation, you need to run `clickhouse-client` to successfully connect to ClickHouse server.
