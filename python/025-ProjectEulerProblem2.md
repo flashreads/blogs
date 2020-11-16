@@ -1,9 +1,18 @@
 ---
 id: 024-ProjectEulerProblem2.md
 title: Solving Project Euler's Problem 2 with Python
-tags: Python, Project Euler, Algortithms
+tags:
+  - Python
+  - Project Euler
+  - Algortithms
 author: Felix Ayoola
 meta-description: Learn the about solving project Euler's Problem 2 in Python.
+date: 2020-10-30 23:37:11 +0100
+keywords: Python, Project Euler, Algortithms
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 # Project Euler

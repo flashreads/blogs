@@ -1,9 +1,18 @@
 ---
 id: 015-using-random.md
 title: How to make a virtual die roller
-tags: python, random, beginner
+tags:
+  - python
+  - random
+  - beginner
 author: William Dessert
 meta-description: Using random to randomize something
+date: 2020-10-23 15:41:42 -0700
+keywords: python, random, beginner
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 ## What is random?

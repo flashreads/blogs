@@ -1,9 +1,18 @@
 ---
 id: 008-list-index.md
 title: How to find the index of an element in a list
-tags: python, lists, list-index
+tags:
+  - python
+  - lists
+  - list-index
 author: Zoran Pandovski
 meta-description: Finding the index of an item in a list in Python with examples
+date: 2020-06-05 21:13:49 +0200
+keywords: python, lists, list-index
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 The [`list.index` method](https://docs.python.org/3/tutorial/datastructures.html#data-structures) will return the index of the first found element in the list for e.g

@@ -1,9 +1,18 @@
 ---
-id: 017-NumPy.md
+id: 020-NumPy.md
 title: Python NumPy Array
-tags: Python, NumpPy, array
+tags:
+  - Python
+  - NumpPy
+  - array
 author: Daita Sur
 meta-description: Learn the about NumPy array in Python.
+date: 2020-10-28 19:28:00 +0530
+keywords: Python, NumpPy, array
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 # NumPy in Python

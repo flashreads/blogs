@@ -1,9 +1,18 @@
 ---
 id: 002-css-responsive-fonts.md
 title: CSS Responsive Fonts
-tags: CSS, Responsive Fonts, CSS Fonts
+tags:
+  - CSS
+  - Responsive Fonts
+  - CSS Fonts
 author: Rabson J Phiri
 meta-description: How to make your fonts responsive using fluid units
+date: 2020-10-26 13:59:31 +0100
+keywords: CSS, Responsive Fonts, CSS Fonts
+template: post
+categories:
+  - other
+cover: ../../images/categories/other.png
 ---
 
 # CSS Responsive Fonts
