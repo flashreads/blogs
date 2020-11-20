@@ -1,9 +1,19 @@
 ---
 id: 007-backend-frontend-with-javascript
 title: Controlling backend and frontend with just one language, JavaScript
-tags: javascript, nodejs, backend, frontend
+tags:
+  - javascript
+  - nodejs
+  - backend
+  - frontend
 author: Ronald S. Pineda
 meta-description: backend and frontend with JavaSript
+date: 2020-10-28 00:18:15 +0100
+keywords: javascript, nodejs, backend, frontend
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 If you are looking for a programming language to handle the entire chain of creation of an application, both the client side (frontend) and the server side, database and other parts of the backend, javascript could be the best option.

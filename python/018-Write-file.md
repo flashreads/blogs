@@ -1,9 +1,18 @@
 ---
 id: 018-write-file.md
 title: First steps in writing files in python
-tags: python, beginner, data
+tags:
+  - python
+  - beginner
+  - data
 author: Marlene Heinrich
 meta-description: Using python to write files
+date: 2020-10-27 16:44:28 +0100
+keywords: python, beginner, data
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 ## Writing files in Python

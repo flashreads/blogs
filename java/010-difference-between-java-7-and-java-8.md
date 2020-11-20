@@ -1,9 +1,18 @@
 ---
 id: 010-difference-between-Java-7-and-Java-8.md
 title: Java 7 vs Java 8
-tags: java 7, Java 8, comparison
+tags:
+  - java 7
+  - Java 8
+  - comparison
 author: Daita Sur
 meta-description: Learn the difference between Java 7 and Java 8.
+date: 2020-10-28 14:11:37 +0530
+keywords: java 7, Java 8, comparison
+template: post
+categories:
+  - java
+cover: ../../images/categories/java.png
 ---
 
 # Java 7 vs Java 8

@@ -1,9 +1,19 @@
 ---
 id: 003-types-in-javascript
 title: Variable types in JavaScript
-tags: javascript, es6, codenewbie, beginner
+tags:
+  - javascript
+  - es6
+  - codenewbie
+  - beginner
 author: Parwinder Bhagat
 meta-description: Introduction to variable types in JavaScript
+date: 2020-10-17 13:22:20 -0500
+keywords: javascript, es6, codenewbie, beginner
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 Anytime that you have a value that could be saved in a variable or passed to a function, they can be defined as one of the 7 types in JavaScript. The different types are:

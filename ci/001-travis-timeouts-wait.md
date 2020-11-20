@@ -1,9 +1,18 @@
 ---
 id: 001-travis-timeouts-wait.md
 title: How to increase Travis CI timeout?
-tags: ci, travis-ci, travis
+tags:
+  - ci
+  - travis-ci
+  - travis
 author: Zoran Pandovski
 meta-description: Increase Travis timeouts with one prefix
+date: 2020-06-21 20:28:46 +0200
+keywords: ci, travis-ci, travis
+template: post
+categories:
+  - ci
+cover: ../../images/categories/ci.png
 ---
 
 There are different use cases where Travis jobs could raise the timeout error. Maybe you are trying to install a Python module that takes some time before installing the dependencies e.g:

@@ -1,9 +1,17 @@
 ---
 id: 003-python-regex-cheatsheet.md
 title: Python Regex Cheat Sheet
-tags: python, regex
+tags:
+  - python
+  - regex
 author: Zoran Pandovski
 meta-description: The Regular Expression Cheat Sheet [QUICK GUIDE]
+date: 2020-05-19 21:38:51 +0200
+keywords: python, regex
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 We all have been in situations where the Regular Expressions were very useful. This days they are not widely used by programmers but if you still need to verify the strings structure, find and replace strings, working on a new processing utility or just doing regex code wars you will find this sheet helpfull.

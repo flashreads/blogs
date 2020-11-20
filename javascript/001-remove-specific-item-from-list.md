@@ -1,9 +1,19 @@
 ---
 id: 001-remove-specific-item-from-list
 title: How to remove a specific item from a list (array) [Javascript]
-tags: javascript, es6, nodejs, array
+tags:
+  - javascript
+  - es6
+  - nodejs
+  - array
 author: Pavle Jonoski
 meta-description: Learn how to remove a specific item from an array in Javascript.
+date: 2020-05-12 20:57:13 +0200
+keywords: javascript, es6, nodejs, array
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 # How to remove a specific item from a list (array) in Javascript

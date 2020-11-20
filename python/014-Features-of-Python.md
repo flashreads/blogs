@@ -1,9 +1,19 @@
 ---
 id: 014-Features-of-Python
 title: Introduction to Python and its features
-tags: python, python3, features, beginner
+tags:
+  - python
+  - python3
+  - features
+  - beginner
 author: Kunal Bhoyar
 meta-description: Learn what is Python and why it is so popular
+date: 2020-10-18 12:39:54 +0530
+keywords: python, python3, features, beginner
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 ## Definition

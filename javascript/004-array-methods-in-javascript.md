@@ -1,9 +1,19 @@
 ---
 id: 004-array-methods-in-javascript
 title: Array methods in JavaScript
-tags: javascript, es6, hacktoberfest, beginner
+tags:
+  - javascript
+  - es6
+  - hacktoberfest
+  - beginner
 author: Anshu Toppo
-meta-description:  Array methods in JavaScript
+meta-description: Array methods in JavaScript
+date: 2020-10-19 12:58:58 +0530
+keywords: javascript, es6, hacktoberfest, beginner
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 **Arrays**

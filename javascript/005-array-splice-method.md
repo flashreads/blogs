@@ -1,9 +1,19 @@
 ---
 id: 005-array-splice-method
 title: JavaScript Array.splice() Method
-tags: javascript, es6, beginner, codenewbie
+tags:
+  - javascript
+  - es6
+  - beginner
+  - codenewbie
 author: Alex Kimeu
 meta-description: Learn JavaScript array.splice() method
+date: 2020-10-19 21:03:29 +0300
+keywords: javascript, es6, beginner, codenewbie
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 ## JavaScript Array splice() method.

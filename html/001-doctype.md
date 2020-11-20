@@ -1,9 +1,18 @@
 ---
 id: 001-doctype.md
 title: What is Doctype in HTML?
-tags: html, tags, doctype
+tags:
+  - html
+  - tags
+  - doctype
 author: Zoran Pandovski
 meta-description: Simple introduction to the html <!DOCTYPE html>
+date: 2020-06-17 22:56:16 +0200
+keywords: html, tags, doctype
+template: post
+categories:
+  - html
+cover: ../../images/categories/html.png
 ---
 
 The DOCTYPE as the name indicates describes the type of the document that would be used so the web browser, web crawler or other client tools can know what type to expect e.g 

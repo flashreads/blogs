@@ -1,9 +1,19 @@
 ---
 id: 009-array-sort-method
 title: JavaScript Array.sort() Method
-tags: javascript, es6, beginner, codenewbie
+tags:
+  - javascript
+  - es6
+  - beginner
+  - codenewbie
 author: Alex Kimeu
 meta-description: Learn JavaScript array.sort() method
+date: 2020-10-31 17:50:04 +0100
+keywords: javascript, es6, beginner, codenewbie
+template: post
+categories:
+  - javascript
+cover: ../../images/categories/javascript.png
 ---
 
 ## JavaScript Array sort() method.

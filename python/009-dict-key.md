@@ -1,9 +1,19 @@
 ---
 id: 009-dict-key.md
 title: Python dict.key vs dict[key]
-tags: python, dict, dictionaries, dict-keys
+tags:
+  - python
+  - dict
+  - dictionaries
+  - dict-keys
 author: Zoran Pandovski
 meta-description: Difference between python's dict.key and dict[key] explained with examples
+date: 2020-06-05 21:13:49 +0200
+keywords: python, dict, dictionaries, dict-keys
+template: post
+categories:
+  - python
+cover: ../../images/categories/python.png
 ---
 
 To get the value from the dictionary the most pythonic way would be to use the square brackets `[ ]` e.g

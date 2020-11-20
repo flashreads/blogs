@@ -1,9 +1,18 @@
 ---
 id: 001-reset-mysql-root-password.md
 title: How to reset the MySQL root password
-tags: mysql, databases, mariadb
+tags:
+  - mysql
+  - databases
+  - mariadb
 author: Zoran Pandovski
 meta-description: Reset MySQL root password in 5 steps
+date: 2020-05-19 23:44:39 +0200
+keywords: mysql, databases, mariadb
+template: post
+categories:
+  - databases
+cover: ../../images/categories/databases.png
 ---
 
 # How to reset the MySQL root password

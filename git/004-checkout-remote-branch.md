@@ -1,9 +1,19 @@
 ---
 id: 004-checkout-remote-branch
 title: How to check out a remote Git branch
-tags: git, git-remote, git-checkout, git-branches
+tags:
+  - git
+  - git-remote
+  - git-checkout
+  - git-branches
 author: Zoran Pandovski
 meta-description: Checkout remote Git branch with one command
+date: 2020-05-20 23:53:42 +0200
+keywords: git, git-remote, git-checkout, git-branches
+template: post
+categories:
+  - git
+cover: ../../images/categories/git.png
 ---
 
 ## How to check out a remote Git branch

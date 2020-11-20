@@ -1,9 +1,18 @@
 ---
 id: 0046git-lens.md
 title: GitLens
-tags: Git, GitLens, VS Code Extension
+tags:
+  - Git
+  - GitLens
+  - VS Code Extension
 author: Rabson J Phiri
 meta-description: Work with git projects easier with the GitLens VS Code Extension
+date: 2020-10-26 17:27:18 +0100
+keywords: Git, GitLens, VS Code Extension
+template: post
+categories:
+  - git
+cover: ../../images/categories/git.png
 ---
 
 # GitLens

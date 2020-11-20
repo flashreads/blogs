@@ -1,9 +1,21 @@
 ---
 id: 006-set-interface-in-java.md
 title: Set interface in Java
-tags: java, collection, set, hashset, treeset, linkedhashset
+tags:
+  - java
+  - collection
+  - set
+  - hashset
+  - treeset
+  - linkedhashset
 author: Kosta Lazarevski
 meta-description: Learn how to use Set interface to store, manipulate data in Java
+date: 2020-10-17 21:33:52 +0200
+keywords: java, collection, set, hashset, treeset, linkedhashset
+template: post
+categories:
+  - java
+cover: ../../images/categories/java.png
 ---
 
 

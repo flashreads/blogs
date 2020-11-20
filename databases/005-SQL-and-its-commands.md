@@ -1,9 +1,18 @@
 ---
 id: 005-SQL-and-its-commands.md
 title: SQL and its commands
-tags: SQL, database, commands
+tags:
+  - SQL
+  - database
+  - commands
 author: Daita Sur
 meta-description: Learn what is SQl and about its commands
+date: 2020-10-29 19:32:02 +0530
+keywords: SQL, database, commands
+template: post
+categories:
+  - databases
+cover: ../../images/categories/databases.png
 ---
 
 # SQL and its commands

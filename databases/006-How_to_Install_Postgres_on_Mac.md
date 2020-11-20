@@ -1,9 +1,18 @@
 ---
-id: 010-How_to_Install_postgres_on_Mac.md
+id: 006-How_to_Install_postgres_on_Mac.md
 title: How to Install Postgres on Mac
-tags: postgres, mac, installation
+tags:
+  - postgres
+  - mac
+  - installation
 author: V Rahul
 meta-description: 3 Step Postgrese Installation Guide For Mac.
+date: 2020-10-27 22:03:56 +0530
+keywords: postgres, mac, installation
+template: post
+categories:
+  - databases
+cover: ../../images/categories/databases.png
 ---
 
 # How to Install Postgres on Mac 
