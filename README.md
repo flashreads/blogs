@@ -17,5 +17,12 @@ To add a new blog:
 * The tags, author, and meta description labels are required.
 * Fork the repository and make PR.
 
+### Contributors
+<a href="https://github.com/flashreads/blogs/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=flashreads/blogs" />
+</a>
 
+Made with [contributors-img](https://contributors-img.web.app).
+
+### License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
