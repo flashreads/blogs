@@ -1,0 +1,9 @@
+Looking at the current scenario, Web Development is one of the Hot career path as every industry is switching towards online content and since, internet is easily available clients are able to reach mass people all over the world.
+
+      Web development stream consists of desiging the website, making it user friendly and undercover the specifications according to clients need. A web designer creates the design and layout of the website making it how it would be looking when user sees it. This consisits of Frontend development where the use of Tech stacks such as HTML, CSS3, Javascript and use of some frontend frameworks such as Angular, React, Vue, are used. Css frameworks such as Saas, Bootstrap, Materialize Css are used it to make the website look more user friendly and it reduces the code, increases productivity.
+
+      when we go through a website, and what we see is the Frontend of the website but when user enter some inputs, details and other data, then that is stored in Backend of the website. The Backend responsibility is covered by the Backend Developer. Some of the major Tech stacks to learn backend are Node js, Django, PHP, Mysql, Mongo DB, Express and many more.
+
+      When you combine a Frontend Development and Backend Development, it becomes a Full-Stack Development and the Techiee doing Fullstack development is known as Full-Stack Developer.
+
+      Some of the major Tech Stacks for Fullstack development in Trend are the "MEAN stack" whcih consists of tech such as Mongo DB, Express, Angular and Node js and the other one is "MERN stack" which consists of Mongo DB, Express, React and Node js.
