@@ -8,6 +8,7 @@ tags:
   - asynchronus calls
 date: 2021-03-01 21:53:39 +0600
 keywords: java, callbacks, async
+template: post
 categories: 
   - java
 cover: ../../images/categories/java.png
