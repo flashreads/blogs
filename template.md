@@ -14,6 +14,10 @@ meta-description: brief overview of the blog entry (SEO optimization)
 
 Content of the blog entry
 
+```python
+# code example
+```
+
 ## Optional sub-sections
 
 Sub section content
