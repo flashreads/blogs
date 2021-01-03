@@ -8,7 +8,8 @@ tags:
   - asynchronus calls
 date: 2021-03-01 21:53:39 +0600
 keywords: java, callbacks, async
-categories: java
+categories: 
+  - java
 cover: ../../images/categories/java.png
 author: Antar Roy
 meta-description: how to use callbacks to perform some tasks after an asynchronus event in java
