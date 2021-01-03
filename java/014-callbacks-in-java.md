@@ -9,16 +9,16 @@ tags:
 date: 2021-03-01 21:53:39 +0600
 keywords: java, callbacks, async
 categories: java
-cover: ../path_to_thumbnail_image
+cover: ../../images/categories/java.png
 author: Antar Roy
 meta-description: how to use callbacks to perform some tasks after an asynchronus event in java
 ---
 
 # Using Callbacks to perform some task after an Async event in Java
 
-Lets discuss the problem first and then we can understand what a callback is!
+Let's discuss the problem first and then we can understand what a callback is!
 
-let's see a code that does some async task which might take some time but we want to do some other work in the meantime. After getting the response or the data been produced, we want to consume the data.
+Let's see a code that does some async task which might take some time but we want to do some other work in the meantime. After getting the response or the data been produced, we want to consume the data.
 
 ```java
 class MyThread extends Thread{
@@ -35,14 +35,14 @@ public class Main {
         // now we dont want to wait, instead we want to initialize the ui with basic components
         initUi();
         // after getting the response from the api, we want to update the ui.
-        // but the code wont wait for that to end and waiting is not a option for us
+        // but the code won't wait for that to end and waiting is not a option for us
     }
 }
 ```
 
 Now how can we know when the data is ready to consume rather than waiting for it?
 
-Well thats where Callback comes in. The word `Callback` is self-describing. It is calling back, like instead of going forward, we are going backward! Let's create two concrete methods `onSuccess()` and `onFailure()` and let the thread that is running seperately, call these methods back to the main thread! we will create an interface and pass an object to the thread.
+Well, that's where Callback comes in. The word `Callback` is self-describing. It is calling back, like instead of going forward, we are going backward! Let's create two concrete methods `onSuccess()` and `onFailure()` and let the thread that is running separately, call these methods back to the main thread! We will create an interface and pass an object to the thread.
 
 ```java
 interface Callback{
