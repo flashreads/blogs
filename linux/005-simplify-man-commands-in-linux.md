@@ -26,8 +26,8 @@ This is the syntax of the man command. Upon entering 'man tar' (tar command is u
 
 ## What does tldr do ?
 
-Basic execution: tldr <command_name> 
-Example: tldr ls, tldr tar, tldr ps etc.
+*Basic execution: tldr <command_name> 
+*Example: tldr ls, tldr tar, tldr ps etc.
 
 * `tldr tar` on executing tldr tar only the relevant commands related to tar and their short description appears as shown below:
 
