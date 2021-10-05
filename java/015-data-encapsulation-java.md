@@ -85,7 +85,7 @@ public class TestEncapsulation {
 ```
 Output
 ```
-Student name: Harsh
+Student name: Vasav
 Student age: 19
 Student roll: 51
 ```
