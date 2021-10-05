@@ -7,7 +7,7 @@ tags:
   - jenkins-ci
 author: Partha Talukdar
 meta-description: Maintaining Continuous Integration Pipelines using Jenkins DSL.
-date: 2020-06-21 20:28:46 +0200
+date: 2021-10-05 20:28:46 +0200
 keywords: ci, jenkins-ci, jenkins
 template: post
 categories:
