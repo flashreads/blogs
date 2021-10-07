@@ -9,9 +9,9 @@ tags:
   - gzip
   - gunzip
 author: Partha Talukdar
-meta-description: Rsync is a remote and local file synchronization tool for syncing linux systems.
+meta-description: Learn how to compress and uncompress files in Linux.
 date: 2021-10-01
-keywords: linux, rsync, synchronization, local remote directories.
+keywords: linux, gzip, compress, uncompress.
 template: post
 categories:
   - linux
