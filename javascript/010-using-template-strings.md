@@ -30,7 +30,7 @@ function killRoach (mop){
 
  // Output: I killed the roach with the mop.
 ```
-```
+
 It doesn´t seem to be that useful, huh? Let´s see how it would be without template strings:
 
 ### **2. Without template strings**
@@ -41,7 +41,6 @@ function killRoach (mop){
  };
  killRoach ("my hands");
  // Output: I killed the roach with my hands.
-```
 ```
 
 Just picture having to do this a dozen times a day, picture the poor one that will maintain this code. 
