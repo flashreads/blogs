@@ -1,7 +1,11 @@
 ---
 id: 006-sftp-setup
 title: SFTP Configuration in Linux(CENTOS)
-tags: sftp, ftp, centos, linux
+tags: 
+    - sftp
+    - ftp
+    - centos
+    - linux
 date: 2021-10-01 16:53:39 +0530
 keywords: sftp, ftp, linux, centos
 categories: linux
