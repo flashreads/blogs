@@ -1,7 +1,11 @@
 ---
 id: 008-git-basic-commands.md
 title: Most Used Commands of Git
-tags: Git, Cheat sheet, commands, Github
+tags: 
+  - git,
+  - git cheat sheet,
+  - git-commands,
+  - github
 date: 2021-10-07 10:53:39  
 keywords: Git, Github
 template: post
