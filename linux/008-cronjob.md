@@ -1,3 +1,20 @@
+---
+id: 008-cronjob.md
+title: Cron, cron job and crontab
+tags:
+  - cron
+  - cron-job
+  - cron-tab
+author: subhgogoi
+meta-description: What are Cron, cron job and crontab
+date: 2020-05-26 21:27:27 +0200
+keywords: linux, cron
+template: post
+categories:
+  - linux
+cover: ../../images/categories/linux.png
+---
+
 # Cron, cron job and crontab
 
 ## What are cron, cron job, and crontab?
