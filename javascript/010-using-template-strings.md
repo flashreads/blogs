@@ -1,10 +1,14 @@
 ---
 id: "010-using-template-strings"
 title: "Start using template strings now!"
-tags: ["Engineering","JavaScript","Strings"]
+tags: 
+ - engineering
+ - javascript
+ - strings
 date: "03/10/2021"
-keywords: "javascript, strings"
-categories: category (JavaScript)
+keywords: javascript, strings
+categories: 
+ - javascript
 cover: "../../images/categories/javascript.pngA"
 author: "Tatiana Coelho"
 meta-description: "Boost your code with template strings."
