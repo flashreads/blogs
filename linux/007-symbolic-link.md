@@ -1,3 +1,20 @@
+---
+id: 007-symbolic-link.md
+title: Symbolic link
+tags:
+  - linux
+  - symlink
+  - symbolic-links
+author: subhgogoi
+meta-description: What is Symbolic Link?
+date: 2020-05-26 21:27:27 +0200
+keywords: linux, symlinc
+template: post
+categories:
+  - linux
+cover: ../../images/categories/linux.png
+---
+
 # Symbolic Link
 
 ## What is Symbolic Link?
