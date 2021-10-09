@@ -19,6 +19,12 @@ Sometimes we need with a script written in Python accessing to an API or downloa
 
 For that we can use the [Requests Library](https://docs.python-requests.org/en/latest)
 
+First we need to install the library:
+
+```console
+pip install requests
+```
+
 Code Example : 
 
 ```python
