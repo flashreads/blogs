@@ -1,12 +1,12 @@
 ---
-id: 030-python-forloops.md
+id: 031-python-forloops.md
 title: Forloops in Python
 tags:
   - python
   - random
 author: Hammed Babatunde
 meta-description: Using Forloops in Python
-date: 2021-10-10 18:38:42 -0700
+date: 2021-10-11 18:38:42 -0700
 keywords: python
 template: post
 categories:
