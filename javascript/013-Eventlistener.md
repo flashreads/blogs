@@ -5,8 +5,8 @@ tags: Javascript, es6, Event,function
 date: 2021-11-10 10:30:39 +0200 
 keywords: Javascript, es6, Event,function
 categories: Javascript
-cover: ../path_to_thumbnail_image
-author: Author Name
+cover: 
+author: Harshvardhan Rathore
 meta-description: brief overview of the blog entry (SEO optimization)
 ---
 
