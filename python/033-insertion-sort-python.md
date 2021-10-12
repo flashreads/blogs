@@ -35,7 +35,7 @@ while i < length(A)
 end while
 ```
 
-The general idea behind it is to iterate through the array from beginning to end and swaps each element from the current element to the beginning of the array if a "greater" prior element is found compare to the current element. It basically sorts "subsections" of the array repeatedly until the entire array is sorted.
+The general idea behind it is to iterate through the array from beginning to end and swaps each element from the current element to the beginning of the array if a "greater" prior element is found compare to the current element. It basically sorts "subsections" of the array repeatedly until the entire array is sorted by "inserting" new elements in the right order in the subsection of the array.
 
 ## Python Implementation
 
@@ -53,5 +53,11 @@ def insertion_sort(array):
             j -= 1
     return array
 ```
+
+As you can see, it closely follows the pseudocode, with some minimal code savings using the `range` function. The `swap` was implemented inline but could be implemented as a separate function as well.
+
+## Runtime
+
+As mentioned, the average runtime for this algorithm is `O(n^2)`. The best case is an array that is already sorted with a runtime of `O(n)` as the current element in the array will only be compared once with a prior element. The worst case is an array that is sorted in reverse as each new element will need to be compared (and swapped) to every prior element to the beginning of the array.
 
 Thanks for reading, any comment or feedback is most welcome!
