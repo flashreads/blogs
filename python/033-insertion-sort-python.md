@@ -58,6 +58,6 @@ As you can see, it closely follows the pseudocode, with some minimal code saving
 
 ## Runtime
 
-As mentioned, the average runtime for this algorithm is `O(n^2)`. The best case is an array that is already sorted with a runtime of `O(n)` as the current element in the array will only be compared once with a prior element. The worst case is an array that is sorted in reverse as each new element will need to be compared (and swapped) to every prior element to the beginning of the array.
+As mentioned, the average runtime for this algorithm is `O(n^2)`. The best case is an array that is already sorted with a runtime of `O(n)` as the current element in the array will only be compared once with a prior element. The worst case is an array that is sorted in reverse as each new element will need to be compared (and swapped) with every prior element to the beginning of the array.
 
 Thanks for reading, any comment or feedback is most welcome!
