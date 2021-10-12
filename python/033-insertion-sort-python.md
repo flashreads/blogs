@@ -35,7 +35,7 @@ while i < length(A)
 end while
 ```
 
-The general idea behind it is to iterate through the array from beginning to end and swaps each element from the current element to the beginning of the array if a "greater" prior element is found compare to the current element.
+The general idea behind it is to iterate through the array from beginning to end and swaps each element from the current element to the beginning of the array if a "greater" prior element is found compare to the current element. It basically sorts "subsections" of the array repeatedly until the entire array is sorted.
 
 ## Python Implementation
 
@@ -46,6 +46,7 @@ def insertion_sort(array):
     for i in range(1, len(array)):
         j = i
         while j > 0 and array[j - 1] > array[j]:
+            # swap the two array elements
             temp = array[j - 1]
             array[j - 1] = array[j]
             array[j] = temp
