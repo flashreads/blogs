@@ -27,45 +27,70 @@ cover: ../../images/categories/linux.png
 > For these examples we will be working with a file called example.c
 
 ### Displaying partial text of a file :
+ 
    + This example only shows only from line 10 to 21 and option -n supresses the printing of the entire file
-   ` sed -n 10,21p example.c` 
+  
+    ` sed -n 10,21p example.c` 
      
 ### Deleting a line using sed command :
+ 
    + N is the line number and d is the option for deletion.
-   `sed Nd example.c`
+  
+    `sed Nd example.c`
   
 ### Deleting a range of lines :
+ 
    + Delete from line 2 to 100 and for deleting the line other than the ones mentioned **use "!d"**
+   
     `sed '2,100d' example.c`
     
 ###  Adding Blank lines/spaces :
+ 
    + To add a blank line after every non-blank line, we will use option ‘G’
-     `sed G example.c`
+   
+    `sed G example.c`
 
 ### Search and Replacing a string using sed : 
    + To search & replace a string from the file, we will use the following example
+   
     `sed 's/int/float/' example.c`
+ 
    + Here **s** means to search for **int** and replace with **float** for every line **but only for the first occurence** 
+ 
    + For replacing all the occurences use **g** option
+   
     `sed 's/int/float/g' example.c`
+ 
    + For replacing only nth occurence use **n(eg:10)** 
-     `sed 's/int/float/10' example.c`
+   
+    `sed 's/int/float/10' example.c`
+ 
    + For replacing all nth occurences use **ng(eg:10g)** 
-     `sed 's/int/float/10g' example.c`
+  
+    `sed 's/int/float/10g' example.c`
+ 
    + Replace a string on a particular line , for example line 5
-     `sed '5 s/int/float/' example.c` 
+   
+    `sed '5 s/int/float/' example.c` 
+ 
    + Replace a string on a particular range of lines , for example line 5 to 10
-     `sed '5,10 s/int/float/' example.c` 
+  
+    `sed '5,10 s/int/float/' example.c` 
      
      
 ### Adding and/or changing lines with matched pattern :
   
   + Add a line after/before the matched search : To add a new line with some content after every pattern match, use option ‘a’ 
-     `sed '/int/a "Hello , You know you are awesome right ?"' example.c`
+   
+   `sed '/int/a "Hello , You know you are awesome right ?"' example.c`
+
   + To add a new line with some content a before every pattern match, use option ‘i’ 
-     `sed '/int/i "Hello , You know you are awesome right ?"' example.c`
+  
+    `sed '/int/i "Hello , You know you are awesome right ?"' example.c`
+
   + Change a whole line with matched pattern : To change a whole line to a new line when a search pattern matches we need to use option ‘c’ with sed 
-     `sed '/int/c "Hello , You know you are awesome right ?"' example.c`
+ 
+    `sed '/int/c "Hello , You know you are awesome right ?"' example.c`
      
  <br/>
  
