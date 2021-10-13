@@ -82,7 +82,7 @@ cover: ../../images/categories/linux.png
   
   + Add a line after/before the matched search : To add a new line with some content after every pattern match, use option ‘a’ 
    
-   `sed '/int/a "Hello , You know you are awesome right ?"' example.c`
+    `sed '/int/a "Hello , You know you are awesome right ?"' example.c`
 
   + To add a new line with some content a before every pattern match, use option ‘i’ 
   
