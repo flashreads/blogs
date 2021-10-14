@@ -5,7 +5,7 @@ tags:
   - linux
   - curl
 author: waltherman
-meta-description: Grep is an ultimate command to search text patterns in files
+meta-description: Curl is data transfer command. This is curl short command guide with examples
 date: 2021-10-14 03:40:00 +0300 
 keywords: linux, curl, url, data transfer, api testing
 template: post
