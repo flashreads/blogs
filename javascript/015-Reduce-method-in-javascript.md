@@ -42,6 +42,7 @@ The Syntax of Reduce method:
 
 ```
 
+## Example 
 Taking an example of multiplying all the elements of an array:
 
 Our first thought to implement this requirement is using for loop, the code will be as follows:
@@ -82,7 +83,7 @@ This allows us to loop through the array’s elements, and at each iteration the
 
 ```
 
-**Parameters**
+## Parameters
 The parameters which the method takes are:
 1. `InitialValue` –
 * This parameter is OPTIONAL
