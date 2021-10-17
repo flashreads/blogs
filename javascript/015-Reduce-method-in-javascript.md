@@ -18,18 +18,19 @@ cover:
 ---
 
 # **Reduce Method in Javascript**
-The Reduce method iterates over the array from left-to-right and produces a single result according to the requirement.
+
+The reduce() method iterates over the array from left-to-right and produces a single result according to the requirement.
 
 The Syntax of Reduce method:
 
 ```javascript
 // Inline callback function
-    reduce(function CallbackFunction(PreviousValue, CurrentValue, CurrentIndex, Array) { 
+    array.reduce(function CallbackFunction(PreviousValue, CurrentValue, CurrentIndex, Array) { 
         //function implementation
      }, InitialValue)
 
 // Arrow function
-    reduce((PreviousValue, CurrentValue, CurrentIndex, Array) => { 
+    array.reduce((PreviousValue, CurrentValue, CurrentIndex, Array) => { 
         //function implementation
     }, InitialValue)
 
@@ -37,7 +38,7 @@ The Syntax of Reduce method:
     function CallbackFunction(PreviousValue, CurrentValue, CurrentIndex, Array) { 
         //function implementation
      }
-    reduce(CallbackFunction, InitialValue) 
+    array.reduce(CallbackFunction, InitialValue) 
 
 ```
 
@@ -83,13 +84,13 @@ This allows us to loop through the array’s elements, and at each iteration the
 
 **Parameters**
 The parameters which the method takes are:
-1.`InitialValue` –
-    a.	This parameter is OPTIONAL
-    b.	If specified, the `PreviousValue` is assigned the `InitialValue` when the callback function is initially called.
-    c.	If not specified, the `PreviousValue` is assigned the first element of the array.
-2.`CallbackFunction` – The function takes four arguments:
-    a.	`PreviousValue` - The returned result from the previous step.
-    b.	`CurrentValue` - The value of the current array element.
-    c.	`CurrentIndex` - The current index value (OPTIONAL)
-    d.	Selected `Array` - The array to traverse (OPTIONAL)
+1. `InitialValue` –
+* This parameter is OPTIONAL
+* If specified, the `PreviousValue` is assigned the `InitialValue` when the callback function is initially called.
+* If not specified, the `PreviousValue` is assigned the first element of the array.
+2. `CallbackFunction` – The function takes four arguments:
+* `PreviousValue` - The returned result from the previous step.
+* `CurrentValue` - The value of the current array element.
+* `CurrentIndex` - The current index value (OPTIONAL)
+* Selected `Array` - The array to traverse (OPTIONAL)
 
