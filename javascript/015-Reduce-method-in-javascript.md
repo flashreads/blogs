@@ -14,7 +14,7 @@ keywords: javascript, hacktoberfest, beginner, Arrays, Reduce
 template: post
 categories:
   - javascript
-cover: 
+cover: ../../images/categories/javascript.png
 ---
 
 # **Reduce Method in Javascript**
