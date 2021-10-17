@@ -17,7 +17,7 @@ categories:
 cover: 
 ---
 
-**Reduce Method in Javascript**
+# **Reduce Method in Javascript**
 The Reduce method iterates over the array from left-to-right and produces a single result according to the requirement.
 
 The Syntax of Reduce method:
