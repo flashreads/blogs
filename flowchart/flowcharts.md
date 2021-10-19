@@ -2,6 +2,9 @@
 
 title: Flowchart
 date: 2021-10-13
+tags: flowchart, java, c++
+keywords: flowcharts 
+categories: java, c++
 keywords: flowchart
 author: Hannykumar
 meta-description: Shortnote on Flowcharts
