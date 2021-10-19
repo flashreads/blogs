@@ -1,3 +1,15 @@
+---
+
+title: Flowchart
+date: 2021-10-13
+keywords: flowchart
+author: Hannykumar
+meta-description: Shortnote on Flowcharts
+---
+
+# FLOWCHARTS
+
+
 What is a Flowchart? 
 Flowchart is a graphical representation of an algorithm. Programmers often use it as a program-planning tool to solve a problem. It makes use of symbols which are connected among them to indicate the flow of information and processing. 
 The process of drawing a flowchart for an algorithm is known as “flowcharting”. 
