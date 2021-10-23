@@ -77,3 +77,5 @@ console.log(a);
 Whenever you write `+`, `-`, `<`, `>` and all other operators out there that this is just a special types of function. The two parametes is being passed to the function and the function have a pre written code inside of it that Javascript engine provide for you and then it will return a value it could be a `Number`, `Boolean` etc.
 
 So please keep in mind that operators is just a function.
+
+Thank you for reading 🙇‍♂️.
