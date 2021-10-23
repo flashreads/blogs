@@ -20,7 +20,9 @@ categories:
 
 # How Operators work in Javascript
 
-Before we dive deep even futher let's get to know what is operators. Operator is a special function that is written differently than a regular function, Generally operator take two parameters and return one result.
+Before we dive deep even futher let's get to know what is operators.
+
+Operator is a special function that is written differently than a regular function, Generally operator take two parameters and return one result.
 
 Lets say you want to create a variable
 
