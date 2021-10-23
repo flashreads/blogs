@@ -41,7 +41,7 @@ Well, first the Javascript engine will see the `+` sign and add the numbers in b
 
 ```js
 function +(num1, num2) {
-	return // sum the two numbers
+  return // sum the two numbers
 }
 ```
 
@@ -63,7 +63,7 @@ const a = 3 - 2;
 console.log(a);
 ```
 
-I think you can already guess, it's 1 because `-` is an operator a minus sign. or you can do another one
+I think you can already guess the result, it's 1 because `-` is an operator a minus sign. or you can do another one
 
 ```js
 const a = 3 > 2;
