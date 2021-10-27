@@ -7,7 +7,7 @@ tags:
   - exception
 author: Nisarga K H
 meta-description: Learn about common errors and its types in Java
-date: 2021-10-27 21:08:32 +0530
+date: 2021-10-27 22:10:32 +0530
 keywords: java, errors, exception
 template: post
 categories: 
