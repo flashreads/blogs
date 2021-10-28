@@ -7,7 +7,7 @@ tags:
   - install
   - requirements
 author: Nitin Tejuja
-meta-description: Form requirements.txt file with libraries that you need to run the project.
+meta-description: Generate the requirements.txt file with libraries that you need to run the project.
 date: 2021-10-28 04:18:55 +0530
 keywords: python
 template: post
