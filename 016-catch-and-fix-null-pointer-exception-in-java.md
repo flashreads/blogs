@@ -87,4 +87,4 @@ public class NullPointerExceptionExample {
 
 Using primitives rather than objects where possible, since they cannot have null references e.g. using int instead of Integer and boolean instead of Boolean.
 
-So next time make sure that you double check your code and prevent `NullPointerException`.  
+So next time make sure that you double check your code and prevent `NullPointerException`.
