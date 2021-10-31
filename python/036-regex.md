@@ -5,7 +5,7 @@ tags: python,nlp,regex
 date: 2021-28-10 19:05:00 +0200 
 keywords: nlp, regex
 categories: Python
-cover: NA
+cover: ../../images/categories/python.png
 author: Nikhar Kesari
 meta-description: This is a brief tutorial on RegEx on Python
 ---

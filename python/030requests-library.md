@@ -10,7 +10,7 @@ keywords: python
 template: post
 categories:
   - python
-cover:
+cover: ../../images/categories/python.png
 ---
 
 ## Python Requests Library
