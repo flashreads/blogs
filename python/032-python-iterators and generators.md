@@ -11,7 +11,7 @@ keywords: python
 template: post
 categories:
   - python
-cover:
+cover: ../../images/categories/python.png
 ---
 
 # Generators and Iterators in Python 

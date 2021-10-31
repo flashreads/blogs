@@ -9,10 +9,9 @@ date: "03/10/2021"
 keywords: javascript, strings
 categories: 
  - javascript
-cover: "../../images/categories/javascript.pngA"
+cover: "../../images/categories/javascript.png"
 author: "Tatiana Coelho"
 meta-description: "Boost your code with template strings."
-
 ---
 
 # Start using template strings

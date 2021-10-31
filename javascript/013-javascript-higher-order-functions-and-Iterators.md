@@ -1,43 +1,24 @@
 ---
-
 id: '013-javascript-higher-order-functions-and-iterators'
-
 title: 'Javascript higher-order functions and Iterators'
-
 tags:
-
 - development
-
 - javascript
-
 - higher order functions
-
 - map
-
 - sort
-
 - forEach
-
 - reduce
-
 - es6
-
 - JS functions
-
 - callbacks
-
 date: '11/10/2021'
-
 keywords: javascript, higher order functions, callbacks, map, sort, forEach, reduce
-
 categories:
-
 - javascript
-
 author: 'Kosta Lazarevski'
-
 meta-description: 'Learn about JavaScript higher order functions and Iterators'
-
+cover: ../../images/categories/javascript.png
 ---
 
 ## Functions Assigned to Variables

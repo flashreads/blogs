@@ -1,28 +1,18 @@
 ---
 id: "013-selecting-elements-from-dom"
-
 title: "Selecting Elements From The DOM"
-
 tags:
   - development
-
   - javascript
-
   - frontend
-
   - DOM
 
 date: "10/10/2021"
-
 keywords: javascript, frontend
-
 categories:
   - javascript
-
 cover: "../../images/categories/javascript.png"
-
 author: "Seun Taiwo"
-
 meta-description: "Selecting elements from the DOM with ease."
 ---
 
