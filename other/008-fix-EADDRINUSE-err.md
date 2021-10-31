@@ -11,6 +11,7 @@ categories:
     - other
 author: ElizabetYessiien
 meta-description: How to kill a port and fix the EADDRINUSE err
+cover: ../../images/categories/other.png
 ---
 
 Here's an interesting error you can come across when working with nodejs servers:

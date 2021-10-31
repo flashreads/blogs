@@ -13,6 +13,7 @@ template: post
 categories:
   - java
   - exception
+cover: ../../images/categories/java.png
 ---
 
 ## What is a ArrayIndexOutOfBoundsException?
