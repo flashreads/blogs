@@ -13,6 +13,7 @@ keywords: Git, Github
 template: post
 categories:
   - git
+cover: ../../images/categories/git.png
 ---
 
 # Git Installation
