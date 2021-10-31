@@ -63,4 +63,10 @@ $ wget --no-check-certificate [URL]
 FTP download is possible too:
 ```
 $ wget  --ftp-user=[username] --ftp-password=[password] [FTP URL]
-```
+
+Network-scripts Config File
+There are two ways you can edit the network interface configurations in Linux:
+
+GUI environment
+Command-line
+Both REHL (and CentOS) and Ubuntu both contain graphical utilities for editing these configuration files. Those graphical utilities will be accessed in a different way depending on which graphical interface you are using.
