@@ -1,18 +1,21 @@
 
 ---
+
 id: 023-JAVA File Class
 title: Working with files
 tags:
-  - JAVA
-  - random
-author: 
+
+- JAVA
+- random
+author:
 meta-description: Creating Files and Manipulations on files
 date: 2021-10-31 20:38:42 -0700
 keywords: Java
 template: post
 categories:
-  - Java
+- Java
 cover:
+
 ---
 
 # What is the JAVA File Class?
@@ -21,19 +24,20 @@ Java File class represents the files and directory pathnames in an abstract mann
 
 The File object represents the actual file/directory on the disk. Following is the list of constructors to create a File object.
 
-### Methods & their Descriptions
+## Methods & their Descriptions
 
-1. **File(File parent, String child) **- This constructor creates a new File instance from a parent abstract pathname and a child pathname string.
+1. **File(File parent, String child)**- This constructor creates a new File instance from a parent abstract pathname and a child pathname string.
 
 2. **File(String pathname)** - This constructor creates a new File instance by converting the given pathname string into an abstract pathname.
 
-3.	**File(String parent, String child)** - This constructor creates a new File instance from a parent pathname string and a child pathname string.
+3. **File(String parent, String child)** - This constructor creates a new File instance from a parent pathname string and a child pathname string.
 
 4. **File(URI Uri)** - This constructor creates a new File instance by converting the given file: URI into an abstract pathname.
 
 ***Once you have the File object in hand, then there is a list of helper methods that can be used to manipulate the files, Listed below***
 
-### Methods & their Descriptions
+## Methods & their Descriptions
+
 1. **public String getName()** - Returns the name of the file or directory denoted by this abstract pathname.
 
 2. **public String getParent()** - Returns the pathname string of this abstract pathname's parent, or null if this pathname does not name a parent directory.
@@ -54,7 +58,7 @@ The File object represents the actual file/directory on the disk. Following is t
 
 10. **public boolean isDirectory()** - Tests whether the file denoted by this abstract pathname is a directory. Returns true if and only if the file denoted by this abstract pathname exists and is a directory; false otherwise.
 
-11. ** public boolean isFile()** - Tests whether the file denoted by this abstract pathname is a normal file. A file is normal if it is not a directory and, in addition, satisfies other system-dependent criteria. Any non-directory file created by a Java application is guaranteed to be a normal file. Returns true if and only if the file denoted by this abstract pathname exists and is a normal file; false otherwise.
+11. **public boolean isFile()** - Tests whether the file denoted by this abstract pathname is a normal file. A file is normal if it is not a directory and, in addition, satisfies other system-dependent criteria. Any non-directory file created by a Java application is guaranteed to be a normal file. Returns true if and only if the file denoted by this abstract pathname exists and is a normal file; false otherwise.
 
 12. **public long lastModified()** - Returns the time that the file denoted by this abstract pathname was last modified. Returns a long value representing the time the file was last modified, measured in milliseconds since the epoch (00:00:00 GMT, January 1, 1970), or 0L if the file does not exist or if an I/O error occurs.
 
@@ -97,12 +101,12 @@ The File object represents the actual file/directory on the disk. Following is t
 32. **public String toString()** - Returns the pathname string of this abstract pathname. This is just the string returned by the getPath() method.
 
 ## Example
+
 **Following is an example to demonstrate File object** −
 
-#### Live Demo
+### Live Demo
 
-
-```
+```java
 package com.raym;
 import java.io.File;
 
@@ -136,14 +140,11 @@ public class FileDemo {
    }
 }
 
-``` 
+```
+
 Consider there is an executable file test1.txt and another file test2.txt is non executable in the current directory. Let us compile and run the above program, This will produce the following result −
 
 #### Output
 
-
 > /home/cg/root/2880380/test1.txt is executable: false
-
 > /home/cg/root/2880380/test2.txt is executable: false
-
-
