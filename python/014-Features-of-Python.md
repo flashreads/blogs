@@ -13,7 +13,7 @@ keywords: python, python3, features, beginner
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python2.svg
 ---
 
 ## Definition

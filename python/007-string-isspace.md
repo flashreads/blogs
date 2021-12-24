@@ -11,7 +11,7 @@ keywords: python, strings
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/empty.svg
 ---
 
 The built-in string method `isspace()` checks if there are only whitespace characters in the string, otherwise it will return False.

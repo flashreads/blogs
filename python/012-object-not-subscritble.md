@@ -14,7 +14,7 @@ keywords: python, python3, type-error, list, dict
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python1.svg
 ---
 
 This error is quite self-descriptive: 

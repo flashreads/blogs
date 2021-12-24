@@ -12,7 +12,7 @@ keywords: python, beginner, data
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/file.svg
 ---
 
 ## Writing files in Python

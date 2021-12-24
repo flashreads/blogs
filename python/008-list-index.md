@@ -12,7 +12,7 @@ keywords: python, lists, list-index
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/queue.svg
 ---
 
 The [`list.index` method](https://docs.python.org/3/tutorial/datastructures.html#data-structures) will return the index of the first found element in the list for e.g

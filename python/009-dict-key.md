@@ -13,7 +13,7 @@ keywords: python, dict, dictionaries, dict-keys
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python.svg
 ---
 
 To get the value from the dictionary the most pythonic way would be to use the square brackets `[ ]` e.g

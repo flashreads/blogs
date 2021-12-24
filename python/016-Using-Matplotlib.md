@@ -12,7 +12,7 @@ keywords: python, beginner, plot
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/visual.svg
 ---
 
 ## What is matplotlib?

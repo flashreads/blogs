@@ -12,7 +12,7 @@ keywords: python, beginner, data
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/read.svg
 ---
 
 ## Reading files in Python

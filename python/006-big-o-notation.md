@@ -11,7 +11,7 @@ keywords: python, exceptions
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/chart.svg
 ---
 
 Let's preview the following simple fucntion:

@@ -13,7 +13,7 @@ keywords: python, python3, python-with, with statement
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/code.svg
 ---
 
 Have you ever heard about Context managers in Python and you weren't sure what they are? The name may be strange but I am sure you have already used one. Let's see one example for reading the file in Python:

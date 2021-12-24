@@ -12,7 +12,7 @@ keywords: python, pypi, pypi-stats
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/stats.svg
 ---
 
 The download stats were removed from PyPi modules. There were few reasons for that as explained in the [mailing list](https://mail.python.org/pipermail/distutils-sig/2013-May/020855.html). So, now the best available option to get the statistics is to use the [Google BigQuery](https://console.cloud.google.com/bigquery?project=the-psf&page=table&t=downloads&d=pypi&p=the-psf) database. To use it you only need a Google account and enabled BigQuery API.

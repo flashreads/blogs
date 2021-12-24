@@ -12,7 +12,7 @@ keywords: python, random, beginner
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python1.svg
 ---
 
 ## What is random?

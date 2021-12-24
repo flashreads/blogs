@@ -12,7 +12,7 @@ keywords: python, beginner, strings
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/text.svg
 ---
 
 ## Formatting Strings
