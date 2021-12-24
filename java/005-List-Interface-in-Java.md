@@ -15,7 +15,7 @@ keywords: java, collection, list, array list, linked list,vector
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/duplicate.svg
 ---
 
 # List Interface

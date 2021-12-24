@@ -15,7 +15,7 @@ keywords: java, spring boot, controller, annotation, mvc, rest
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/diff.svg
 ---
 
 # @Controller vs @RestController

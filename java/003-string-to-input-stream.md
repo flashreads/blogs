@@ -13,7 +13,7 @@ keywords: java, one-liner, string, input-stream
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/input.svg
 ---
 
 # Convert String to InputStream in Java

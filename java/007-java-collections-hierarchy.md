@@ -15,7 +15,7 @@ keywords: java, collection, API, List, Set, Queue
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/hieararchy.png
 ---
 
 # Java Collection Hierarchy

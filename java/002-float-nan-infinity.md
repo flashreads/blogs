@@ -14,7 +14,7 @@ keywords: java, nan, infinity, positive-infinity, negative-infinity
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/calculator.svg
 ---
 
 # NaN and Infinity in Java

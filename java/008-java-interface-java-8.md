@@ -13,7 +13,7 @@ keywords: java, interface, default method, static static
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/java8.svg
 ---
 
 # What is interface in Java

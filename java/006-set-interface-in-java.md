@@ -15,7 +15,7 @@ keywords: java, collection, set, hashset, treeset, linkedhashset
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/store.svg
 ---
 
 
