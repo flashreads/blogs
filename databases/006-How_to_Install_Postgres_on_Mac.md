@@ -12,7 +12,7 @@ keywords: postgres, mac, installation
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/install1.svg
 ---
 
 # How to Install Postgres on Mac 

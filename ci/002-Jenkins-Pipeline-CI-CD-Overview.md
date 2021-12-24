@@ -12,7 +12,7 @@ keywords: ci, jenkins-ci, jenkins
 template: post
 categories:
   - ci
-cover: ../../images/categories/ci.png
+image: assets/images/pipe.svg
 ---
 
 # Jenkins Pipeline

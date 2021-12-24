@@ -12,7 +12,7 @@ keywords: Primary_key,implementation,Composite_key
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/key.svg
 ---
 
 

@@ -7,10 +7,10 @@ tags:
   - css
 date: 2021-03-16 15:36:00 +7
 keywords: javascript, html, link
-categories: 
-	- frontend-tips
+categories: frontend, frontendtips
 author: phuoc-ng
-meta-description: brief overview of the blog entry (SEO optimization)
+image: assets/images/html.svg
+meta-description: How to use "noopener" or "noreferrer" to open links in new tabs
 ---
 
 # Always use "noopener" or "noreferrer" for links opened in new tabs

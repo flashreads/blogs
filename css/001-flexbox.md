@@ -8,6 +8,7 @@ categories: css, flex
 cover: 
 author: Igbinosa Iwinosa
 meta-description: A brief introduction To CSS Flex
+image: assets/images/css.svg
 ---
 
 # Getting Started with CSS Flexbox

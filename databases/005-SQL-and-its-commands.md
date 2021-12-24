@@ -12,7 +12,7 @@ keywords: SQL, database, commands
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/db.svg
 ---
 
 # SQL and its commands

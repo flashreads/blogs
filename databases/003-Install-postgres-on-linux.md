@@ -12,7 +12,7 @@ keywords: linux, database, postgres
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/install.svg
 ---
 
 ## How to Install Postgres On Linux (Debian)

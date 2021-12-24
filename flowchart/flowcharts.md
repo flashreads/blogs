@@ -8,6 +8,7 @@ categories: java, c++
 keywords: flowchart
 author: Hannykumar
 meta-description: Shortnote on Flowcharts
+image: assets/images/chart.svg
 ---
 
 # FLOWCHARTS

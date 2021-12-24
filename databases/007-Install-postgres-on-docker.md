@@ -13,7 +13,7 @@ keywords: docker, pgsql, postgres, postgresql,
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/container.svg
 ---
 
 # PostgreSQL database in Docker

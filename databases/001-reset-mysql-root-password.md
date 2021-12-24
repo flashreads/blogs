@@ -12,7 +12,7 @@ keywords: mysql, databases, mariadb
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/password.svg
 ---
 
 # How to reset the MySQL root password

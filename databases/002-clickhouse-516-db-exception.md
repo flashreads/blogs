@@ -12,7 +12,7 @@ keywords: clickhouse, databases, clickhouse-cli
 template: post
 categories:
   - databases
-cover: ../../images/categories/databases.png
+image: assets/images/data.svg
 ---
 
 ClickHouse provides a command line tool for connecting to the ClickHouse database called [clickhouse-client](https://clickhouse.tech/docs/en/interfaces/cli/#command-line-options). Following the official documentation, you need to run `clickhouse-client` to successfully connect to ClickHouse server.
