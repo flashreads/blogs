@@ -15,7 +15,7 @@ keywords: linux, gzip, compress, uncompress.
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/package.svg
 ---
 
 # Compressing , Uncompressing Files In Linux?

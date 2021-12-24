@@ -11,7 +11,7 @@ date: 2021-10-23
 keywords: javascript, es6, beginner, types, operators
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/dev.svg
 author: Fajar Saputro Juliantoro
 meta-description: Learn how operators work in Javascript
 categories:

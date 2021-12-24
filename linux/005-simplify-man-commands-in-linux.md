@@ -12,7 +12,7 @@ keywords: linux, man commands, tldr
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/manual.svg
 ---
 
 # man command vs tldr

@@ -7,7 +7,7 @@ tags:
 date: 2021-10-20 23:50:39 +0630
 keywords: javascript, functions, asynchronous
 categories: javascript
-cover: "../../images/categories/javascript.png"
+image: assets/images/javascript/js2.svg
 author: A S Md Ferdousul Haque
 meta-description: Beginner intro to JavaScript Asynchronous Functions
 ---

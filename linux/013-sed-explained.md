@@ -11,7 +11,7 @@ keywords: linux, sed, editing standard input and output streams
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/search.svg
 --- 
 
 # Sed Explained:

@@ -18,7 +18,7 @@ keywords: linux, linux-directoy, bin, etc, dev, root, home, lib, sbin
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/dir.svg
 ---
 
 This short article aims to provide a simple and useful explanation to the Linux directory structure.

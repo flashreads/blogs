@@ -12,7 +12,7 @@ keywords: linux, symlinc
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/link.svg
 ---
 
 # Symbolic Link

@@ -11,7 +11,7 @@ keywords: linux, mkdir(make-dir) and rmdir(remove-dir command) command
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/dir1.svg
 ---
 The `mkdir` command is used to create a new directory. The command can also be used to create multiple and nested directories too.
 

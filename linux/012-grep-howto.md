@@ -11,7 +11,7 @@ keywords: linux, grep, searching in files
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/search.svg
 ---
 
 # What is Grep?

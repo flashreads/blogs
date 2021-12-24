@@ -12,7 +12,7 @@ keywords: linux, rsync, synchronization, local remote directories.
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/sync.svg
 ---
 
 # What is Rsync?

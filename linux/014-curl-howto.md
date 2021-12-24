@@ -11,7 +11,7 @@ keywords: linux, curl, url, data transfer, api testing
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/transfer.svg
 ---
 
 # Curl

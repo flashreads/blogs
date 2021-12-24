@@ -11,7 +11,7 @@ date: 2020-10-13 17:50:14 +0200
 keywords: kubernetes, job, logs, read logs
 categories: 
     - kubernetes
-cover: ../../images/kubernetes.png
+image: assets/images/log.svg
 author: Pavle Jonoski
 meta-description: Read logs of a kubernetes job
 ---

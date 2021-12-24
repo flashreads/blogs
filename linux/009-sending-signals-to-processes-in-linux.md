@@ -12,7 +12,7 @@ keywords: linux, process management, signals
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/signal.svg
 ---
 
 # Sending Signals In Linux

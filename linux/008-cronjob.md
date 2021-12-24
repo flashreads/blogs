@@ -12,7 +12,7 @@ keywords: linux, cron
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/time2.svg
 ---
 
 # Cron, cron job and crontab

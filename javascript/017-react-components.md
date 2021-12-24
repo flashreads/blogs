@@ -11,7 +11,7 @@ date: 2021-10-21
 keywords: javascript, library, frontend, DOM, components
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/react.svg
 author: Marie-Claire
 meta-description: React JS Components
 ---

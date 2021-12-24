@@ -11,7 +11,7 @@ keywords: linux, wget, download, cli tools
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/download.svg
 ---
 
 # wget

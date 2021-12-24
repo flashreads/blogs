@@ -13,7 +13,7 @@ keywords: linux, sftp
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/sftp.svg
 ---
 
 # SFTP Configuration

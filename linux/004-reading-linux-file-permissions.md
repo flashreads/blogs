@@ -11,7 +11,7 @@ keywords: linux, file permissions
 template: post
 categories:
   - linux
-cover: ../../images/categories/linux.png
+image: assets/images/permission.svg
 ---
 
 # File Permissions

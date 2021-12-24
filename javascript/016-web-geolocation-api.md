@@ -10,7 +10,7 @@ date: 2021-10-21
 keywords: javascript, objects, api
 categories: 
 - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/geo.svg
 author: Melo Noia
 meta-description: Javascript Geolocation API
 ---

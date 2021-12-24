@@ -10,7 +10,7 @@ date: 2021-10-23
 keywords: javascript, data, web, joi, SQL injection
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/data.svg
 author: Victory Nwani
 meta-description: Learn how to validate data using Joi to prevent SQL injection attacks.
 categories:
