@@ -7,7 +7,7 @@ tags:
 date: "10/16/2021"
 keywords: javascript, functions
 categories: javascript
-cover: "../../images/categories/javascript.png"
+image: assets/images/javascript/arrow.svg
 author: Melissa Gonzalez
 meta-description: Beginner intro to JavaScript Arrow Functions
 ---

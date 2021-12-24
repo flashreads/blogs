@@ -18,7 +18,7 @@ categories:
 - javascript
 author: 'Kosta Lazarevski'
 meta-description: 'Learn about JavaScript higher order functions and Iterators'
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/js1.svg
 ---
 
 ## Functions Assigned to Variables

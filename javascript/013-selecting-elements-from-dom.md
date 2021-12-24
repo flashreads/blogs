@@ -6,12 +6,11 @@ tags:
   - javascript
   - frontend
   - DOM
-
 date: "10/10/2021"
 keywords: javascript, frontend
 categories:
   - javascript
-cover: "../../images/categories/javascript.png"
+image: assets/images/javascript/dom.svg
 author: "Seun Taiwo"
 meta-description: "Selecting elements from the DOM with ease."
 ---

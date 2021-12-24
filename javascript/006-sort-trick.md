@@ -12,7 +12,7 @@ keywords: JavaScript, sort, localeCompare
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/sort.svg
 ---
 
 # Sorting strings in JavaScript

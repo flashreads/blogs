@@ -13,7 +13,7 @@ keywords: javascript, es6, codenewbie, beginner
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/type.svg
 ---
 
 Anytime that you have a value that could be saved in a variable or passed to a function, they can be defined as one of the 7 types in JavaScript. The different types are:

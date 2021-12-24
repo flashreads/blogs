@@ -13,7 +13,7 @@ keywords: javascript, es6, nodejs, array
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/move.svg
 ---
 
 # How to remove a specific item from a list (array) in Javascript

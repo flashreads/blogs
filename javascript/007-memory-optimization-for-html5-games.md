@@ -15,7 +15,7 @@ keywords: javascript, games, gamedev, beginner, memory, optimization
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/memory.svg
 ---
 
 ## Intro:

@@ -26,7 +26,7 @@ categories:
 
 - javascript
 
-cover: '../../images/categories/javascript.png'
+image: assets/images/javascript/event.svg
 
 author: 'Atchyut Preetham Pulavarthi'
 

@@ -13,7 +13,7 @@ keywords: javascript, nodejs, backend, frontend
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/js.svg
 ---
 
 If you are looking for a programming language to handle the entire chain of creation of an application, both the client side (frontend) and the server side, database and other parts of the backend, javascript could be the best option.

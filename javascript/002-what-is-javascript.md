@@ -13,7 +13,7 @@ keywords: javascript, es6, beginner, codenewbie
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/js.svg
 ---
 
 ## Definition

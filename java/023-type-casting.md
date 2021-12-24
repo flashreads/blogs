@@ -9,7 +9,7 @@ date: 2021-10-31 16:08:39
 keywords: java, object, type
 categories: 
 - java
-cover: ../../images/categories/java.png
+image: assets/images/factory.svg
 author: Ryan Omoruyi
 meta-description: Type Casting in Java
 ---

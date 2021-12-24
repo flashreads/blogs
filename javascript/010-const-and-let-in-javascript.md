@@ -14,7 +14,7 @@ keywords: javascript, es6, beginner, const, let
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/csljs.svg
 ---
 
 ## cons and let keywords

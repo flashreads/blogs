@@ -13,7 +13,7 @@ keywords: javascript, es6, hacktoberfest, beginner
 template: post
 categories:
   - javascript
-cover: ../../images/categories/javascript.png
+image: assets/images/javascript/array.svg
 ---
 
 **Arrays**

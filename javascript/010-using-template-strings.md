@@ -9,7 +9,7 @@ date: "03/10/2021"
 keywords: javascript, strings
 categories: 
  - javascript
-cover: "../../images/categories/javascript.png"
+image: assets/images/javascript/ts.svg
 author: "Tatiana Coelho"
 meta-description: "Boost your code with template strings."
 ---
