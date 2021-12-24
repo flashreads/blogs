@@ -13,7 +13,7 @@ keywords: string, contains, python, python3
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/contain.svg
 ---
 
 # String `contains` method in Python

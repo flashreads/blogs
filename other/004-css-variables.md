@@ -12,7 +12,7 @@ keywords: CSS, Variables, CSS Variables
 template: post
 categories:
   - other
-cover: ../../images/categories/other.png
+image: assets/images/css2.svg
 ---
 
 # CSS Variables

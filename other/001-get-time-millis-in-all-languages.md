@@ -32,7 +32,7 @@ keywords: current-time, millis, milliseconds, python, javascript, java, golang, 
 template: post
 categories:
   - other
-cover: ../../images/categories/other.png
+image: assets/images/time1.svg
 ---
 
 Get the current time as milliseconds in:

@@ -12,7 +12,7 @@ keywords: CSS, Responsive Fonts, CSS Fonts
 template: post
 categories:
   - other
-cover: ../../images/categories/other.png
+image: assets/images/css1.svg
 ---
 
 # CSS Responsive Fonts

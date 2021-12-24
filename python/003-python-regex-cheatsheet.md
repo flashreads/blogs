@@ -11,7 +11,7 @@ keywords: python, regex
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+cover: ../../images/categories/sheet.png
 ---
 
 We all have been in situations where the Regular Expressions were very useful. This days they are not widely used by programmers but if you still need to verify the strings structure, find and replace strings, working on a new processing utility or just doing regex code wars you will find this sheet helpfull.

@@ -12,7 +12,7 @@ keywords: data-structure, python, optimization
 template: post
 categories:
   - other
-cover: ../../images/categories/other.png
+image: assets/images/datas.svg
 ---
 
 # Persistent Data Structures

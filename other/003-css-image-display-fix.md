@@ -12,7 +12,7 @@ keywords: CSS, Images, Image Display
 template: post
 categories:
   - other
-cover: ../../images/categories/other.png
+image: assets/images/img.svg
 ---
 
 # CSS Image DIsplay Fix

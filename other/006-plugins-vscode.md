@@ -9,7 +9,7 @@ date: 2021-09-03 21:53:39 +0200
 keywords: IDE, VScode, Plugin
 categories: 
     - other
-cover: ../../images/categories/other.png
+image: assets/images/studio.svg
 author: gfda
 meta-description: Some useful plugins/extensions for VSCode IDE.
 ---

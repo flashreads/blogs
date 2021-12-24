@@ -11,7 +11,7 @@ categories:
     - other
 author: VasekS
 meta-description: How to create terminal aliases
-cover: ../../images/categories/other.png
+image: assets/images/connect.svg
 ---
 
 # What is an Alias

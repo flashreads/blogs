@@ -14,7 +14,7 @@ keywords: python, windows, pip, pytorch, conda
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/torch.svg
 ---
 
 ## Install Pytorch with pip

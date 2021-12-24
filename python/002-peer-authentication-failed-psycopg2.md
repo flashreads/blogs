@@ -13,7 +13,7 @@ keywords: psycopg2, postgresql, python, database
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/auth.svg
 ---
 
 # psycopg2.OperationalError: FATAL: Peer authentication failed for user "postgres"

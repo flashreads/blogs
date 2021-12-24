@@ -10,7 +10,7 @@ keywords:
     -ahoy
 categories:
     - other
-cover: ../../images/categories/other.png
+image: assets/images/auto.svg
 author: Konstantin Sivakov
 meta-description: Automate your scripts
 ---
