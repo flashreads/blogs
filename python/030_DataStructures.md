@@ -12,7 +12,7 @@ keywords: python, beginner, data structures
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/data.svg
 ---
 
 ## Basic data structures:

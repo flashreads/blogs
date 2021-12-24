@@ -10,7 +10,7 @@ date: 2021-10-11 17:30:00 -0800
 keywords: python, sorting, algorithms, insertion, sort
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/eng.svg
 author: Ryan Lim
 meta-description: insertion sort in python
 ---

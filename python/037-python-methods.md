@@ -11,7 +11,7 @@ keywords: python
 template: post
 categories:
   - python
-cover:
+image: assets/images/python/python.svg
 ---
 
 # Methods

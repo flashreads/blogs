@@ -2,17 +2,17 @@
 id: 036-regex.md
 title: A simple Guide to RegEx
 tags: python,nlp,regex
-date: 2021-28-10 19:05:00 +0200 
+date: 2021-10-28 19:05:00 +0200 
 keywords: nlp, regex
 categories: Python
-cover: ../../images/categories/python.png
+image: assets/images/python/pattern.svg
 author: Nikhar Kesari
 meta-description: This is a brief tutorial on RegEx on Python
 ---
 
 # A simple Guide to RegEX 
  
-Regular Expressions
+### Regular Expressions
 Regular expression is a set of characters, called as the pattern, which helps in finding substrings in a given string. The pattern is used to detect the substrings
 
 For example, suppose you have a dataset of customer reviews about your restaurant. Say, you want to extract the emojis from the reviews because they are a good predictor os the sentiment of the review.

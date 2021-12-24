@@ -10,12 +10,12 @@ keywords: python
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/req.svg
 ---
 
 ## Python Requests Library
 
-Sometimes we need with a script written in Python accessing to an API or download the content of a web page
+Sometimes we need with a script written in Python accessing to an API or download the content of a web page.
 
 For that we can use the [Requests Library](https://docs.python-requests.org/en/latest)
 

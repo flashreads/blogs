@@ -13,7 +13,7 @@ keywords: python
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/require.svg
 ---
 
 # What is requirements.txt file ?

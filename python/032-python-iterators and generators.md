@@ -11,10 +11,11 @@ keywords: python
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python4.svg
 ---
 
 # Generators and Iterators in Python 
+
 Generator functions allow us to write a function that can send back a value and then later resume to pick up where it left off. This type of function is a generator in Python, allowing us to generate a sequence of values over time. The main difference in syntax will be the use of a yield statement.
 
 In most aspects, a generator function will appear very similar to a normal function. The main difference is when a generator function is compiled they become an object that supports an iteration protocol. That means when they are called in your code they don't actually return a value and then exit. Instead, generator functions will automatically suspend and resume their execution and state around the last point of value generation

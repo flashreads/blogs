@@ -11,7 +11,7 @@ keywords: python
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python3.svg
 ---
 
 ## What Is A List Comprehension
