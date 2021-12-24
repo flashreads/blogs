@@ -5,7 +5,7 @@ tags: java, object, type
 date: 2021-10-28 21:53:39 +0200 
 keywords: java, object, type
 categories: java
-cover: ../../images/categories/java.png
+image: assets/images/java/type.svg
 author: Alla Konstantinova
 meta-description: Type Comparison in Java
 ---

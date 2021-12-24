@@ -12,7 +12,7 @@ keywords: java 7, Java 8, comparison
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/diff1.svg
 ---
 
 # Java 7 vs Java 8

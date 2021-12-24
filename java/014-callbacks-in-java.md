@@ -11,7 +11,7 @@ keywords: java, callbacks, async
 template: post
 categories: 
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/call.svg
 author: Antar Roy
 meta-description: how to use callbacks to perform some tasks after an asynchronus event in java
 ---

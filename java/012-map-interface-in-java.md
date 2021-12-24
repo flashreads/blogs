@@ -16,7 +16,7 @@ keywords: java, collection, API, Map, HashMap, LinkedHashMap, TreeMap
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/developer.svg
 ---
 
 # Map Interface

@@ -12,7 +12,7 @@ keywords: encapsulation, OOP, Class
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/data.svg
 ---
 
 # ENCAPSULATION

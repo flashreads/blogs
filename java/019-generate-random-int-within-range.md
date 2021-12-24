@@ -10,7 +10,7 @@ date: 2021-10-25 00:35:30 +0200
 keywords: generate, random, integer, range, java
 categories:
     - java
-cover: ../../images/categories/java.png
+image: assets/images/java/calculator.svg
 author: Pavle Jonoski
 meta-description: learn howto generate a random integer within a specific range in Java
 ---

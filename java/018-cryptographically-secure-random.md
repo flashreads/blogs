@@ -9,7 +9,7 @@ date: 2021-10-24 23:56:00 +0200
 keywords: random, java, cryptographically-secure
 categories:
     - java
-cover: ../../images/categories/java.png
+image: assets/images/java/crypto.svg
 author: Pavle Jonoski
 meta-description: generate cryptographically secure random number in Java
 ---

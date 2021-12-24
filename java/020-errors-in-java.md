@@ -12,7 +12,7 @@ keywords: java, errors, exception
 template: post
 categories: 
     - java
-cover: ../../images/categories/java.png
+image: assets/images/error.svg
 ---
 
 # ERRORS

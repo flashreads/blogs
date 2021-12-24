@@ -14,13 +14,14 @@ template: post
 categories:
   - java
   - exception
-cover: ../../images/categories/java.png
+image: assets/images/java/check.svg
 ---
 
 
 
 
 ## Checked versus Unchecked Java Exceptions
+
 ### We can devide Java exceptions into three categories:
 
 **Errors** and **Exceptions** can be frustrating at times, but at the end of the day we need to know how to solve them. That is what we do. This little blog will help you learn about the types of Java Exceptions and they mean.

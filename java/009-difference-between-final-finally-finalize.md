@@ -14,7 +14,7 @@ keywords: java, final, finally, finalize, comparison
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/final.svg
 ---
 
 # Java Final vs Finally vs Finalize

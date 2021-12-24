@@ -12,7 +12,7 @@ keywords: abstraction, OOP, Class
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/abstract.svg
 ---
 
 # Abstraction
