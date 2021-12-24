@@ -15,7 +15,7 @@ keywords: git, revert, git-revert, rest, git-reset, git-rebase
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/talk.svg
 ---
 
 # Undo the latest local commit in Git

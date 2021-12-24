@@ -11,7 +11,7 @@ keywords: Git, Github
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/versionc.svg
 author: Juhi Vishwakarma
 meta-description: list of frequently used git commands
 ---

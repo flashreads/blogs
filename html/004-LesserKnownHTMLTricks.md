@@ -12,7 +12,7 @@ keywords: HTML5, Web development, tricks
 template: post
 categories:
   - html
-cover: ../../images/categories/html.png
+image: assets/images/html1.svg
 ---
 
 # Lesser Known HTML5 Tricks:

@@ -13,7 +13,7 @@ keywords: go, golang, slice, delete
 template: post
 categories:
   - go
-cover: ../../images/categories/go.png
+image: assets/images/deliver.svg
 ---
 
 # Properly delete an element from a slice in Go

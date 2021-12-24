@@ -5,7 +5,7 @@ tags: html, wcag, a11y, accessibility
 date: 2021-10-22 23:50:42 +0200 
 keywords: html, wcag, a11y, accessibility
 categories: html
-cover: ../../images/categories/html.png
+image: assets/images/acc.svg
 author: Natalie Stroud
 meta-description: A brief introduction into web accessibility
 ---

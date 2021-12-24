@@ -11,7 +11,7 @@ keywords: Git, Github
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/code.svg
 ---
 
 # Differences Between Git and Github

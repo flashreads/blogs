@@ -12,7 +12,7 @@ keywords: Git, GitLens, VS Code Extension
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/lens.svg
 ---
 
 # GitLens

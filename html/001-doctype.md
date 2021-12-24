@@ -12,7 +12,7 @@ keywords: html, tags, doctype
 template: post
 categories:
   - html
-cover: ../../images/categories/html.png
+image: assets/images/webb.svg
 ---
 
 The DOCTYPE as the name indicates describes the type of the document that would be used so the web browser, web crawler or other client tools can know what type to expect e.g 

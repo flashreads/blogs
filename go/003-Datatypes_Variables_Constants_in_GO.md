@@ -13,7 +13,7 @@ keywords: GO, Datatypes, Variables, Constants
 template: post
 categories:
   - go
-cover: ../../images/categories/go.png
+image: assets/images/insp.svg
 ---
 
 # Understading Datatypes, Variables Constants In GO

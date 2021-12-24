@@ -11,7 +11,7 @@ keywords: go, golang
 template: post
 categories:
   - go
-cover: ../../images/categories/go.png
+image: assets/images/gotcha.svg
 ---
 
 # Common gotchas when mutating a slice

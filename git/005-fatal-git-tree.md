@@ -12,7 +12,7 @@ keywords: git, git-write, git pull
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/tree.svg
 ---
 
 If you search the above error, most of the answers would be to use `git reset --hard` command. But, you should be careful with executing this command. You can lose all uncommitted changes from your working tree. So how to resolve this error?

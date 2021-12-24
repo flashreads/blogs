@@ -12,7 +12,7 @@ keywords: java, equals, comparison
 template: post
 categories:
   - java
-cover: ../../images/categories/java.png
+image: assets/images/java/java.svg
 ---
 
 # Java String equals vs the (==) equality operator

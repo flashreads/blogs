@@ -12,9 +12,11 @@ keywords: html, bootstrap,web development
 template: post
 categories:
   - html
-cover: ../../images/categories/html.png
+image: assets/images/htmlc.svg
 ---
-# Bootsrap
+
+# Bootstrap
+
 Bootstrap was created by Twitter developers for internal use but it was laid out in open access and became a convenient set of tools for developing user interfaces of any complexity. Now, Bootstrap is an open and free HTML, CSS, and JS toolkit that is used by web developers to create responsive website designs quickly and effectively. When a Bootstrap web developer connects these files to the page, a large number of classes and ready-made components will become available for design layout.
 
 

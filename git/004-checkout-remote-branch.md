@@ -13,7 +13,7 @@ keywords: git, git-remote, git-checkout, git-branches
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/remote.svg
 ---
 
 ## How to check out a remote Git branch

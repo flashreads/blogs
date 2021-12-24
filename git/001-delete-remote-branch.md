@@ -15,7 +15,7 @@ keywords: git, delete-branch, repository, command-line, github, github.com
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/throw.svg
 ---
 
 # Git delete a branch from the local and remote repository

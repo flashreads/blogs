@@ -12,7 +12,7 @@ keywords: git, github, github-pages
 template: post
 categories:
   - git
-cover: ../../images/categories/git.png
+image: assets/images/page.svg
 ---
 
 # How to unpublish GitHub pages site
