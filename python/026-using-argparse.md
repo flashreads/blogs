@@ -13,7 +13,7 @@ keywords: Python, cli, args, argparse
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/com.svg
 ---
 
 # What is Argparse?

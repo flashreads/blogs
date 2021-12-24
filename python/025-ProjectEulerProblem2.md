@@ -12,7 +12,7 @@ keywords: Python, Project Euler, Algortithms
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/solve.svg
 ---
 
 # Project Euler

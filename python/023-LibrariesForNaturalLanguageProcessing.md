@@ -13,7 +13,7 @@ keywords: python, NLP, libraries, text processing
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/speak.svg
 ---
 
 

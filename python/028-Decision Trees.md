@@ -12,7 +12,7 @@ keywords: python, Decision Tree
 template: post
 categories:
   - python
-cover: ../../images/categories/trees.png
+image: assets/images/python/tree.svg
 ---
 
 ## What is Decision Trees?

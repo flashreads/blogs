@@ -12,12 +12,12 @@ keywords: Python, NumpPy, array
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python3.svg
 ---
 
 # NumPy in Python
 
-let us first learn what is NumPy:
+Let us first learn what is NumPy:
 
 NumPy is a python library used for working with arrays. It also has functions for working in the domain of linear algebra, Fourier transform, and matrices. NumPy is an open-source project and we can use it freely. NumPy stands for Numerical Python.
 

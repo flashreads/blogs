@@ -11,7 +11,7 @@ keywords: python, pandas
 template: post
 categories:
   - python
-cover: ../../images/categories/python.png
+image: assets/images/python/python3.svg
 ---
 
 Sometimes when reading a file in Pandas you may incur in the following error after declaring the path name:
