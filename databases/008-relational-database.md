@@ -1,3 +1,14 @@
+---
+id: 008-relational-database.md
+title: Relational database
+tags: System, system design, system design interview, database, relational database
+date: 2022-10-23 21:26:39 +0200 
+keywords: Relational database
+categories: Database
+author: Pragya Sapkota
+meta-description: Relational Database
+---
+
 # Relational Database
 
 ![Relational Database](https://miro.medium.com/max/1100/1*7G9vdSCtEiddaNyiUbvrRg.jpeg)
