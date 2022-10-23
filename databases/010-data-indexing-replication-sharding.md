@@ -1,3 +1,14 @@
+---
+id: 010-data-indexing-replication-sharding.md
+title: Data Indexing, Replication, and Sharding - Basic Concepts
+tags: system, system design, system design interview, database, indexing, replication, sharding
+date: 2022-10-23 21:26:39 +0200 
+keywords: Indexing, Sharding
+categories: Database
+author: Pragya Sapkota
+meta-description: Database Indexing and Replication and Sharding
+---
+
 # Data Indexing, Replication, and Sharding: Basic Concepts
 
 ![Indexing, Replication, Sharding](https://miro.medium.com/max/1100/1*zPddtlzQOJUgV7NQJQruKg.jpeg)
