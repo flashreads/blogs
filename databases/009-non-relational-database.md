@@ -1,3 +1,14 @@
+---
+id: 009-non-relational-database.md
+title: Non-Relational database
+tags: System, system design, system design interview, database, non-relational database
+date: 2022-10-23 21:26:39 +0200 
+keywords: Non-relational database
+categories: Database
+author: Pragya Sapkota
+meta-description: Non-relational Database
+---
+
 # Non-relational Database
 
 ![Non-relational Database](https://miro.medium.com/max/1100/1*cb9bywzYu9RYCs6Zgb_fUA.jpeg)
