@@ -15,9 +15,9 @@ categories:
 
 ---
 # History
-In 1991, Sun Micro systems was attempting to develop a new technology for programming next generation smart appliances.
-The original plan was for the Star 7 operating system to be developed in C++ but rejected the idea for several reasons.
-As a result we have new language that was betterfor the purposes of the Green project than C++ developed by Gosling. 
+The history of Java is very interesting. Java was originally designed for interactive television, but it was too advanced technology for the digital cable television industry at the time.In 1991, Sun Micro systems was attempting to develop a new technology for programming next generation smart appliances.
+But the original plan was for the Star 7 operating system to be developed in C++ but rejected the idea for many reasons.
+That's reason  we have introduced new language that was better for the purposes of the Green project than C++ developed by Gosling. 
 He called the language Oak in honor of a tree that could be seen from his office window.James Gosling was part of Green,
 an isolated research project at Sun that was studying how to put computers into everyday household items like thoughtful toasters, 
 sagacious Salad Shooters and lucid lamps. The group also wanted these devices to communicate with each other.
