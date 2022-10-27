@@ -1,3 +1,17 @@
+---
+id: blog-entry-id
+title: Variable Hoisiting
+tags: javascript, hoisting
+date: 2022-10-26 21:53:39 +0200 
+keywords: javascript, variable, hositing, scope
+categories: javascript
+cover: NA
+author: Bhanu Loshali
+meta-description: hoisting in javascript
+---
+
+
+
 **What is Variable Hoisting?**
 
 We can refer to the variable anywhere in its scope, even if its declaration isn't reached yet. We can see var declarations as being "lifted" to the top of its function or global scope. However, if you access a variable before it's declared, the value is always undefined, because only its declaration is hoisted, but not its initialization.
