@@ -1,0 +1,12 @@
+3.1.1) Definition: -
+Network scanning is a procedure for identifying active devices on a network by employing a feature or features in the network protocol to signal devices and await a response. During a network scan, all the active devices on the network send signals, and once the response is received, the scanner evaluates the results and checks to see if there are inconsistencies.
+
+
+3.1.2) Purpose of Network Scanning: -
+Network scanning is mainly used for security assessment, system maintenance, and also for performing attacks by hackers.
+The purpose of network scanning is as follows:
+
+•	Recognize available UDP and TCP network services running on the targeted hosts.
+•	Recognize filtering systems between the user and the targeted hosts.
+•	Determine the operating systems (OSs) in use by assessing IP responses.
+•	Evaluate the target host's TCP sequence number predictability to determine sequence prediction attack and TCP spoofing.
