@@ -1,0 +1,57 @@
+# Merge Sort in Data Structure
+
+Merge sort is a sorting algorithm based on the Divide and conquer strategy. It works by recursively dividing the array into two equal halves, then sort them and combine them. It takes a time of (n logn) in the worst case.
+
+## What is Merge Sort?
+The merge sort algorithm is an implementation of the divide and conquer technique. Thus, it gets completed in three steps:
+1. Divide: In this step, the array/list divides itself recursively into sub-arrays until the base case is reached.
+2. Recursively solve: Here, the sub-arrays are sorted using recursion.
+3. Combine: This step makes use of the merge( ) function to combine the sub-arrays into the final sorted array.
+
+## Algorithm for Merge Sort
+Step 1: Find the middle index of the array.
+Middle = 1 + (last – first)/2
+Step 2: Divide the array from the middle.
+Step 3: Call merge sort for the first half of the array
+MergeSort(array, first, middle)
+Step 4: Call merge sort for the second half of the array.
+MergeSort(array, middle+1, last)
+Step 5: Merge the two sorted halves into a single sorted array.
+
+## Pseudo-code for Merge Sort
+Consider an array Arr which is being divided into two sub-arrays left and right. Let L1 = Number of elements in the left sub-array; and L2 = Number of elements in the right sub-array.
+procedure merge(Arr[], lt, mid, rt):
+    int L1 = mid - lt + 1
+    int L2 = rt-mid
+    int left[L1], right[L2]
+   
+    for i = 0 to L1:
+    	left[i] = Arr[lt + i]
+    END for loop
+   
+    for j = 0 to L2:
+    	right[j] = Arr[mid+1+j]
+    END for loop
+   
+    while(left and right hve elments):
+    	if(left[i] < right[j])
+        	Add left[i] to the end of Arr
+    	else
+        	Add right[i] to the end of Arr
+    END while loop
+   
+END procedure	
+ 
+procedure Merge_sort(Arr[]):
+    l1 = Merge_sort(L1)
+    l2 = Merge_sort(L2)
+    return merge(l1, l2)
+END procedure
+ 
+ 
+## Characteristics of Merge Sort
+1. External sorting algorithm: Merge sort can be used when the data size is more than the RAM size. In such a case, whole data cannot come into RAM at once. Thus, data is loaded into the RAM in small chunks and the rest of the data resides in the secondary memory.
+2. Non-inplace sorting algorithm: Merge sort is not an inplace sorting technique as its space complexity is O(n). Inplace or space-efficient algorithms are those whose space complexity is not more than O(logn).
+ 
+
+
